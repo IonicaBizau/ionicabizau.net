@@ -22,6 +22,11 @@
       , "label": "Contact"
       , "slug": "contact"
       , "order": 40
-      , "visible": false
+    }
+  , "/faq": {
+        "url": "/faq.md"
+      , "label": "FAQ"
+      , "slug": "faq"
+      , "order": 50
     }
 }
