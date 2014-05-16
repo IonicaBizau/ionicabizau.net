@@ -20,10 +20,10 @@ global.SITE_CONFIG = {
     }
   , cache: {
         initOnStart: true
-      , ttl: 100000
+      , ttl: 3 * 24 * 60 * 60 * 1000 // 3 days
     }
   , session: {
-        ttl: 60 * 60 * 1000
+        ttl: 10 * 24 * 60 * 60 * 1000 // 10 days
     }
   , paths: {
         roots: {
@@ -66,7 +66,6 @@ function parsePaths (objToIterate, parents) {
 parsePaths (SITE_CONFIG.paths, ["parsed"]);
 
 // set global variable
-global.SITE_CONFIG = null;
 SITE_CONFIG.parsePaths = function () {
     parsePaths (SITE_CONFIG.paths, ["parsed"]);
 };
