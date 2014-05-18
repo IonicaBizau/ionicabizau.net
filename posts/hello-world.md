@@ -14,3 +14,9 @@ All the history is saved in a [git repository](https://github.com/IonicaBizau/bl
 Feel free to [contact](/contact) me. I try to answer every message, so you can try. :smile:
 I invite you to follow me on [Twitter @IonicaBizau](https://twitter.com/IonicaBizau) where I anounce my latest projects. Also,
 don't forget to checkout my [GitHub profile](https://github.com/IonicaBizau).
+
+```js
+function foo () {
+    return Math.random() + 1;
+}
+```

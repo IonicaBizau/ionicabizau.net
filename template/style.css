@@ -1,4 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:800,400&subset=latin,latin-ext);
+@import url("./tomorrow.css");
+
 body {
     font-family: 'Open Sans', 'sans-serif';
     padding: 0 2.6em;
