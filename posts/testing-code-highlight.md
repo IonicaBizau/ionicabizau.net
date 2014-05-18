@@ -1,0 +1,85 @@
+Code highlight is cool! Let's make some tests.
+
+The following pieces of code are taken from very this NodeJS based blogging platform.
+
+## CSS
+
+```css
+/* blockquotes */
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+```
+
+## JavaScript
+
+```js
+process.on("uncaughtException", function (err) {
+    console.error (err);
+});
+
+// dependencies
+var Statique = global.Statique = require ("statique")
+  , Utils = require ("./utils")
+  , Config = global.Config = require ("./config.js")
+  , Url = require("url")
+  , Http = require ("http")
+  , Apis = require ("./apis")
+  , ipaddress = Config.ipaddress || "localhost"
+  , port      = Config.port
+  ;
+
+// sessions
+global.sessions = {};
+
+// create server
+Http.createServer (function(req, res) {
+    /* some magic here */
+}).listen(port, ipaddress);
+
+// print some output
+console.log("Server running at http://%s:%d", ipaddress, port);
+```
+
+## HTML
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <style>
+            body {
+                background: red;
+            }
+        </style>
+    </head>
+    <body>
+        <script>
+            function foo () {
+                return Math.random() + 1;
+            }
+            alert(foo());
+        </script>
+        <h1>Hello World</h1>
+    </body>
+</html>
+```
+
+So, isn't this code highlight beautiful?
