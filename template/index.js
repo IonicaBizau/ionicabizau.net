@@ -1,10 +1,10 @@
 // dependencies
-var fs = require ("fs");
+var fs = require("fs");
 
 module.exports = {
-    page: fs.readFileSync (__dirname + "/pages.html")
+    page: fs.readFileSync(__dirname + "/pages.html")
         .toString()
-        .replace (
+        .replace(
             "{{CSS_STYLE_URL}}"
           , SITE_CONFIG.paths.template + "/style.css"
         )
