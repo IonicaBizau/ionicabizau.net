@@ -31,13 +31,13 @@ h1.social {
     margin: 0 auto;
 }
 
-div.post-bottom:after {
+div.post-bottom-shadow {
     box-shadow: 0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF;
     position: absolute;
     left: 0;
     right: 0;
-    content: "";
-    height: 25px;
+    height: 40px;
+    margin-top: 4px;
 }
 
 img {
@@ -115,6 +115,10 @@ div.footer {
     }
 }
 
+div.post-bottom {
+    position: absolute;
+}
+
 a:hover {
     color: #e67e22;
 }
@@ -146,7 +150,6 @@ div.post .post-content {
 }
 
 div.post {
-    border-bottom: 1px solid rgb(235, 235, 235);
     padding-bottom: 1em;
     margin-bottom: 4em;
 }
@@ -154,20 +157,20 @@ div.post {
 /* mardkown style */
 /* blockquotes */
 blockquote {
-  background: #f9f9f9;
-  border-left: 10px solid #ccc;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-  quotes: "\201C""\201D""\2018""\2019";
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
 }
 blockquote:before {
-  color: #ccc;
-  content: open-quote;
-  font-size: 4em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
 }
 blockquote p {
-  display: inline;
+    display: inline;
 }
