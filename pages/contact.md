@@ -5,12 +5,12 @@ If you have any questions, just send me a message. If you just want to say "Hi",
     <table>
         <tbody>
             <tr>
-                <td>Name:</td>
+                <td>Name</td>
                 <td><input type="text" name="name"></td>
             </tr>
             <tr>
                 <td>Email Address</td>
-                <td><input type="email" name="email"></td>
+                <td><input type="text" name="email"></td>
             </tr>
             <tr>
                 <td>Subject</td>

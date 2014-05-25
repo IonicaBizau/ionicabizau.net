@@ -17,9 +17,14 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 900;
 }
 
+.contact-form,
+.contact-form input,
+.contact-form textarea,
 p {
     font-family: 'Lato', sans-serif;
-    font-size: 22px;
+    font-size: 20px;
+}
+p {
     margin-top: 15px;
     margin-bottom: 25px;
     line-height: 28px;
@@ -177,4 +182,38 @@ blockquote:before {
 }
 blockquote p {
     display: inline;
+}
+
+/* contact form  */
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form input[type="submit"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 3px solid rgb(170, 88, 0);
+    margin-left: -20px;
+}
+
+.contact-form textarea {
+    resize: vertical;
+    height: 200px !important;
+}
+
+.contact-form table {
+    width: 100%;
+}
+
+.contact-form input[type="submit"] {
+    background: white;
+    cursor: pointer;
+    width: 200px;
+}
+
+.contact-form input[type="submit"]:hover {
+    background: #ecf0f1;
+}
+
+.contact-form td {
+    vertical-align: top;
 }
