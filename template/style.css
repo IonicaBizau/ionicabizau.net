@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:800,400&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 @import url("./tomorrow.css");
 
 body {
@@ -18,8 +18,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1.2em;
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    line-height: 28px;
 }
 
 h1.social {
