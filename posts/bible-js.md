@@ -28,7 +28,7 @@ Creates a new `Bible` instance.
 ```js
 var Bible = new (require ("bible.js"))({
     language: "EN"
-})
+});
 ```
 
 ### `Bible.get (reference, callback)`
