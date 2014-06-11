@@ -8,4 +8,10 @@ module.exports = {
             "{{CSS_STYLE_URL}}"
           , SITE_CONFIG.paths.template + "/style.css"
         )
+  , post: fs.readFileSync(__dirname + "/posts.html")
+        .toString()
+        .replace(
+            "{{CSS_STYLE_URL}}"
+          , SITE_CONFIG.paths.template + "/style.css"
+        )
 };
