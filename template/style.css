@@ -1,7 +1,9 @@
+/* fonts and tomorrow theme */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:800,400&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 @import url("./tomorrow.css");
 
+/* general */
 body {
     font-family: 'Open Sans', 'sans-serif';
     padding: 0 2.6em;
@@ -13,6 +15,19 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #e67e22;
+}
+
+.text-center {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 1000%;
+}
+
 pre code {
     overflow: auto;
 }
@@ -21,25 +36,15 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 900;
 }
 
-.instantclick-bar {
-    background: rgb(170, 88, 0) !important;
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    text-decoration: none;
+    color: #000000;
 }
 
-.contact-form,
-.contact-form input,
-.contact-form textarea,
-p {
-    font-family: 'Lato', sans-serif;
-    font-size: 20px;
-}
 p {
     margin-top: 15px;
     margin-bottom: 25px;
     line-height: 28px;
-}
-
-h1.social {
-    font-size: 2em !important;
 }
 
 .container {
@@ -48,40 +53,13 @@ h1.social {
     margin: 0 auto;
 }
 
-div.post-bottom-shadow {
-    box-shadow: 0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF;
-    position: absolute;
-    left: 0;
-    right: 0;
-    height: 40px;
-    margin-top: 4px;
-}
-
-img {
-    max-width: 100%;
-    max-height: 1000%;
-}
-
-img.rounded {
-    border-radius: 100%;
-}
-
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-    text-decoration: none;
-    color: #000000;
-}
-
-.text-center {
-    text-align: center;
+/* header */
+h1.social {
+    font-size: 2em !important;
 }
 
 .header {
     /* padding: 4em 0; */
-}
-
-.content {
-    padding-bottom: 4em;
-    text-align: justify;
 }
 
 .header img {
@@ -104,61 +82,19 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     text-transform: uppercase;
 }
 
-li.page {
-    display: inline;
-    padding: 0 10px;
+img.rounded {
+    border-radius: 100%;
 }
 
-ul.pages {
-    list-style-type: none;
-    border-bottom: 5px solid #dddddd;
-    border-top: 5px solid #dddddd;
-    padding: 10px 0;
+/* instant click */
+.instantclick-bar {
+    background: rgb(170, 88, 0) !important;
 }
 
-div.footer {
-    padding: 1.5em 0;
-    border-top: 5px solid #dddddd;
-}
-
-.page a {
-    font-weight: bold;
-}
-
-/* Large desktop */
-@media (min-width: 1370px) {
-    .content {
-        font-size: 1.2em;
-    }
-}
-
-div.post-bottom {
-    position: absolute;
-}
-
-a:hover {
-    color: #e67e22;
-}
-
-/* Portrait tablet to landscape and desktop */
-@media (min-width: 768px) and (max-width: 1370px) {
-    .content {
-        font-size: 1em;
-        padding-bottom: 2em;
-    }
-
-    .header {
-        padding-top: 2em;
-    }
-}
-
-/* Landscape phone to portrait tablet */
-@media (max-width: 767px) {
-}
-
-/* Landscape phones and down */
-@media (max-width: 480px) {
-
+/* posts */
+div.post {
+    padding-bottom: 1em;
+    margin-bottom: 4em;
 }
 
 div.post .post-content {
@@ -166,33 +102,59 @@ div.post .post-content {
     max-height: 21em;
 }
 
-div.post {
-    padding-bottom: 1em;
-    margin-bottom: 4em;
+div.post-bottom-shadow {
+    box-shadow: 0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF,0 0 80px #FFF;
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 40px;
+    margin-top: 4px;
 }
 
-/* mardkown style */
-/* blockquotes */
-blockquote {
-    background: #f9f9f9;
-    border-left: 10px solid #ccc;
-    margin: 1.5em 10px;
-    padding: 0.5em 10px;
-    quotes: "\201C""\201D""\2018""\2019";
+div.post-bottom {
+    position: absolute;
 }
-blockquote:before {
-    color: #ccc;
-    content: open-quote;
-    font-size: 4em;
-    line-height: 0.1em;
-    margin-right: 0.25em;
-    vertical-align: -0.4em;
+
+.content {
+    padding-bottom: 4em;
+    text-align: justify;
 }
-blockquote p {
+
+/* contact form */
+.contact-form,
+.contact-form input,
+.contact-form textarea,
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+/* page list */
+ul.pages {
+    list-style-type: none;
+    border-bottom: 5px solid #dddddd;
+    border-top: 5px solid #dddddd;
+    padding: 10px 0;
+}
+
+li.page {
     display: inline;
+    padding: 0 10px;
 }
 
-/* contact form  */
+.page a {
+    font-weight: bold;
+}
+
+/* footer */
+div.footer {
+    padding: 1.5em 0;
+    border-top: 5px solid #dddddd;
+}
+
+/*********************
+ * Contact form      *
+ *********************/
 .contact-form input[type="text"],
 .contact-form input[type="email"],
 .contact-form input[type="submit"],
@@ -225,3 +187,58 @@ blockquote p {
 .contact-form td {
     vertical-align: top;
 }
+
+/*********************
+ * Markdown CSS      *
+ *********************/
+/* blockquotes */
+blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+
+blockquote p {
+    display: inline;
+}
+
+
+/*********************
+ * Responsive layout *
+ *********************/
+
+/* Large desktop */
+@media (min-width: 1370px) {
+    .content {
+        font-size: 1.2em;
+    }
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 1370px) {
+    .content {
+        font-size: 1em;
+        padding-bottom: 2em;
+    }
+
+    .header {
+        padding-top: 2em;
+    }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { }
+
+/* Landscape phones and down */
+@media (max-width: 480px) { }
