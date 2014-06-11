@@ -22,14 +22,13 @@
                 if (err) { mb = mbErrorEl; }
                 else { mb = mbSuccessEl; }
 
-                try {
-                    message = JSON.parse(message);
-                } catch (ex) {}
-
                 mb.innerHTML = message.message || message;
                 mb.style.display = "block";
                 mb.classList.remove("fadeInUp");
                 mb.classList.add("fadeInUp");
+                if (!err) {
+                    formEl.classList.add("flipOutX");
+                }
             });
             e.preventDefault();
         } catch (e) {
