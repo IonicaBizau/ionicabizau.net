@@ -7,3 +7,4 @@ I work as web developer for a Swiss company. In my free time I like to write plu
 Every day I spend a little time on StackOverflow being an [active user](http://stackoverflow.com/users/1420197/ionica-bizau).
 
 Two years ago I switched from Windows to Linux entering in the open source world.
+
