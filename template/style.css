@@ -7,8 +7,8 @@
 /* general */
 body {
     font-family: 'Open Sans', 'sans-serif';
-    padding: 0 2.6em;
     color: #2c3e50;
+    margin: 0;
 }
 
 a {
@@ -87,6 +87,42 @@ img.rounded {
     border-radius: 100%;
 }
 
+/* post header */
+.top-header img {
+    float: left;
+    margin: 0 1.618em 0 0;
+    max-height: 35px;
+
+}
+.top-header h1 {
+    font-size: 1em;
+    float: left;
+    margin: 0;
+    line-height: 2.2;
+}
+div.top-header {
+}
+.top-header a {
+    color: white;
+}
+.top-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 0 3.631em;
+    padding: 0.5em 2.618em;
+    color: #fff;
+    background: #d35400;
+    opacity: 0.97;
+    filter: alpha(opacity=@opacity * 100);
+    -webkit-transition: all ease-in-out 0.2s;
+    -moz-transition: all ease-in-out 0.2s;
+    -ms-transition: all ease-in-out 0.2s;
+    -o-transition: all ease-in-out 0.2s;
+    transition: all ease-in-out 0.2s;
+}
+
 /* instant click */
 .instantclick-bar {
     background: rgb(170, 88, 0) !important;
@@ -120,6 +156,11 @@ div.post-bottom {
 .content {
     padding-bottom: 4em;
     text-align: justify;
+}
+
+.content.single-post {
+    margin: 9.505em auto 9.505em;
+    max-width: 740px;
 }
 
 /* contact form */
@@ -268,3 +309,4 @@ blockquote p {
 
 /* Landscape phones and down */
 @media (max-width: 480px) { }
+
