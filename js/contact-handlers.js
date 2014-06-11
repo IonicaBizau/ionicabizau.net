@@ -11,11 +11,18 @@
             mbSuccessEl.style.display = "none";
             formToSubmit.submit(function (err, data) {
 
-                var mb = null;
+                var mb = null
+                  , message = err || data
+                  ;
+
                 if (err) { mb = mbErrorEl; }
                 else { mb = mbSuccessEl; }
 
-                mb.innerHTML = err || data;
+                try {
+                    message = JSON.parse(message);
+                } catch (ex) {}
+
+                mb.innerHTML = message.message || message;
                 mb.style.display = "block";
                 mb.classList.remove("fadeInUp");
                 mb.classList.add("fadeInUp");
