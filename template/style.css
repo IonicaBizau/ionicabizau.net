@@ -1,5 +1,5 @@
 /* fonts and tomorrow theme */
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:800,400&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 @import url("./tomorrow.css");
 @import url("http://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.0/animate.min.css");
@@ -34,7 +34,7 @@ pre code {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 900;
+    font-weight: bold;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -95,7 +95,8 @@ img.rounded {
 /* posts */
 div.post {
     padding-bottom: 1em;
-    margin-bottom: 4em;
+    margin: 0 auto 4em auto;
+    max-width: 750px;
 }
 
 div.post .post-content {
