@@ -29,5 +29,4 @@ If you have any questions, just send me a message. If you just want to say "Hi",
         </tbody>
     </table>
 </form>
-<script src="/lib/xhr-form-submitter.min.js"></script>
 <script src="/js/contact-handlers.js"></script>
