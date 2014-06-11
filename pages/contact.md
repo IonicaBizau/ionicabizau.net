@@ -1,6 +1,6 @@
 If you have any questions, just send me a message. If you just want to say "Hi", that's cool too.
 
-<form class="contact-form" action="/contact" method="POST">
+<form id="contact-form" class="contact-form" action="/contact" method="POST">
     <input type="hidden" name="formId" value="contact">
     <table>
         <tbody>
@@ -27,3 +27,7 @@ If you have any questions, just send me a message. If you just want to say "Hi",
         </tbody>
     </table>
 </form>
+<div id="mb-error" class="animated message-box error hide"></div>
+<div id="mb-success" class="animated message-box success hide"></div>
+<script src="/lib/xhr-form-submitter.min.js"></script>
+<script src="/js/contact-handlers.js"></script>

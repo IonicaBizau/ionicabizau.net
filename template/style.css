@@ -188,6 +188,31 @@ div.footer {
     vertical-align: top;
 }
 
+div.message-box {
+    padding: 12px;
+    margin: 5px;
+    border-bottom: 6px solid;
+    border-radius: 4px;
+    color: #ecf0f1;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    text-shadow: 1px 1px 0 #34495e;
+    font-size: 1.7em;
+}
+
+.message-box.success {
+    background: #1abc9c;
+    border-color:  #16a085;
+}
+
+.message-box.error {
+    background: #e74c3c;
+    border-color: #c0392b;
+}
+
+.hide { display: none; }
+
 /*********************
  * Markdown CSS      *
  *********************/
@@ -242,3 +267,48 @@ blockquote p {
 
 /* Landscape phones and down */
 @media (max-width: 480px) { }
+
+/*********************
+ * Animate CSS       *
+ *********************/
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+@-webkit-keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+    transform: translateY(20px);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+    -ms-transform: translateY(20px);
+    transform: translateY(20px);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+.fadeInUp {
+  -webkit-animation-name: fadeInUp;
+  animation-name: fadeInUp;
+}
