@@ -163,6 +163,27 @@ div.post-bottom {
     max-width: 740px;
 }
 
+/* feedback */
+div.blog-feedback {
+    background: #F0F0F0;
+    padding: 1px 21px;
+    border-radius: 4px;
+    border: 1px solid #aaa;
+    box-shadow: 0 6px 6px -6px black;
+}
+.blog-feedback p {
+    margin: 10px 0;
+    font-weight: normal;
+}
+p.blog-feedback-description {
+    color: #747474;
+    font-size: 15px;
+}
+
+.blog-feedback a {
+    font-weight: bold;
+}
+
 /* contact form */
 .contact-form,
 .contact-form input,
