@@ -156,6 +156,7 @@ div.post-bottom {
 .content {
     padding-bottom: 8px;
     text-align: justify;
+    font-family: 'Cardo', serif;
 }
 
 .content.single-post {
