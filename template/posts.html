@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>{{TITLE}}</title>
+        <title>{{title}}</title>
         <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         <link rel="stylesheet" href="{{CSS_STYLE_URL}}">
         <link rel="icon" href="/favicon.ico">
@@ -18,7 +18,9 @@
         </div>
         <div class="container">
             <div class="content single-post">
-                {{PAGE_CONTENT}}
+                <h1 class="post-title">{{title}}</h1>
+                <p class="post-date">{{date}}</p>
+                {{{content}}}
             </div>
             <div class="footer text-center">
                 &copy; 2014 • Ionică Bizău - Created with JavaScript and <i class="fa fa-heart"></i> from Romania.
