@@ -17,17 +17,19 @@ JavaScript/Node.JS), publishing them on [GitHub][2]. There I maintain more than
 just perfect for me. Also, sometimes I write small bash scripts that optimize my
 work.
 
-I am a [StackOverflow user][3], being on 22nd position from top 200 users from
-Romania. You can check out [my profile][4].
+I am a [StackOverflow user][3], being on [22nd position from Romanian users][4].
+You can check out [my profile][5].
 
-You can find my music videos on [my YouTube channel][5].
+You can find my music videos on [my YouTube channel][6].
 
-If you want to contact me, just [write me a message](/contact) and I reply you
+If you want to contact me, just [write me a message][7] and I reply you
 shortly.
 
 
   [1]: http://jillix.com/
   [2]: https://github.com/IonicaBizau
   [3]: http://en.wikipedia.org/wiki/Stack_Overflow
-  [4]: http://stackoverflow.com/users/1420197/ionica-bizau
-  [5]: https://www.youtube.com/user/IonicaBizau
+  [4]: http://data.stackexchange.com/stackoverflow/query/201379/my-position-from-romanian-users
+  [5]: http://stackoverflow.com/users/1420197/ionica-bizau
+  [6]: https://www.youtube.com/user/IonicaBizau
+  [7]: /contact
