@@ -151,6 +151,7 @@ div.post-bottom-shadow {
 
 div.post-bottom {
     position: absolute;
+    font-family: 'Open Sans', 'sans-serif';
 }
 
 .content {
