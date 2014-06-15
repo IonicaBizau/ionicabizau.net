@@ -222,6 +222,10 @@ li.page {
     padding: 0 10px;
 }
 
+li.page.current-page a {
+    color: #FF771D;
+}
+
 .page a {
     font-weight: bold;
 }
