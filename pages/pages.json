@@ -5,18 +5,6 @@
       , "slug": "home"
       , "order": 10
     }
-  , "/bio": {
-        "url": "/bio.md"
-      , "label": "BIO"
-      , "slug": "Bio"
-      , "order": 20
-    }
-  , "/abl": {
-        "url": "/abl.md"
-      , "label": "Abl"
-      , "slug": "abl"
-      , "order": 30
-    }
   , "/contact": {
         "url": "/contact.md"
       , "label": "Contact"
