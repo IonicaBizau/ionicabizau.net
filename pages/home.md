@@ -8,13 +8,14 @@ source world. Loving C#, I wanted a close alternative. That's why I tried Java,
 but I didn't like it! Later, I will discover really better programming
 languages.
 
-In the end of 2012, I became a member of the [jillix team][1],
-a Swiss company, working as web developer.
+In the end of 2012, I became a member of the [jillix team][1], a Swiss company,
+working as web developer. That's how I met Node.JS.
 
-In my free time I like to write plugins and modules, publishing them on
-[GitHub][2]. There I maintain more than 100 open source projects. I love
-JavaScript a lot. It's easy and powerful... just perfect for me. Also, sometimes
-I write small bash scripts that optimize my work.
+In my free time I like to write plugins and modules (most of them written in
+JavaScript/Node.JS), publishing them on [GitHub][2]. There I maintain more than
+100 open source projects. I love JavaScript a lot. It's easy and powerful...
+just perfect for me. Also, sometimes I write small bash scripts that optimize my
+work.
 
 I am a [StackOverflow user][3], being on 22nd position from top 200 users from
 Romania. You can checkout [my profile][4].
