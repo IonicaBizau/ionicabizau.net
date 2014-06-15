@@ -5,6 +5,7 @@ module.exports = [
       , "publishedAt": "18-05-2014"
       , "path": "testing-code-highlight.md"
       , "by": "Ionică Bizău"
+      , "id": "2"
     }
   , {
         "title": "Hello World"
@@ -12,5 +13,6 @@ module.exports = [
       , "publishedAt": "15-05-2014"
       , "path": "hello-world.md"
       , "by": "Ionică Bizău"
+      , "id": "1"
     }
 ];
