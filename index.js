@@ -20,7 +20,7 @@ global.SITE_CONFIG = {
     }
   , cache: {
         initOnStart: true
-      , ttl: 3 * 24 * 60 * 60 * 1000 // 3 days
+      , ttl: 3 * 24 * 60 * 60 * 1000 * 0// 3 days
     }
   , session: {
         ttl: 10 * 24 * 60 * 60 * 1000 // 10 days
