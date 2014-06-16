@@ -6,13 +6,13 @@ module.exports = {
         .toString()
         .replace(
             "{{CSS_STYLE_URL}}"
-          , SITE_CONFIG.paths.template + "/style.css"
+          , Config.gitSite.paths.template + "/style.css"
         )
   , posts: fs.readFileSync(__dirname + "/posts.html")
         .toString()
         .replace(
             "{{CSS_STYLE_URL}}"
-          , SITE_CONFIG.paths.template + "/style.css"
+          , Config.gitSite.paths.template + "/style.css"
         )
   , blocks: {
         post: fs.readFileSync(__dirname + "/blocks/post.html").toString()
