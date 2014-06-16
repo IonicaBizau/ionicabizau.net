@@ -1,1 +1,1 @@
-module.exports = requireNoCache(__dirname + "/posts.json");
+module.exports = Utils.requireNoCache(__dirname + "/posts.json");
