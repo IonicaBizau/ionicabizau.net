@@ -1,18 +1,1 @@
-module.exports = [
-    {
-        "title": "Testing Code Highlight"
-      , "slug": "testing-code-highlight"
-      , "publishedAt": "18-05-2014"
-      , "path": "testing-code-highlight.md"
-      , "by": "Ionică Bizău"
-      , "id": "2"
-    }
-  , {
-        "title": "Hello World"
-      , "slug": "hello-world"
-      , "publishedAt": "15-05-2014"
-      , "path": "hello-world.md"
-      , "by": "Ionică Bizău"
-      , "id": "1"
-    }
-];
+module.exports = requireNoCache(__dirname + "/posts.json");

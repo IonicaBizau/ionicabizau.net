@@ -29,7 +29,6 @@ global.SITE_CONFIG = {
         roots: {
             pages: "/pages"
           , posts: "/posts"
-          , users: "/users"
         }
       , template: "/template"
       , ROOT: __dirname
