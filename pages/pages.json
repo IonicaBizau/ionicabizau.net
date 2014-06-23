@@ -5,6 +5,12 @@
       , "slug": "home"
       , "order": 10
     }
+  , "/faq": {
+        "url": "/faq.md"
+      , "label": "FAQ"
+      , "slug": "faq"
+      , "order": 30
+    }
   , "/contact": {
         "url": "/contact.md"
       , "label": "Contact"
