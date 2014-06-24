@@ -1,134 +1,61 @@
-<!-- Thank you! http://cssdeck.com/labs/my-404-page -->
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>404 - Not found</title>
+        <link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+        <title>Not found</title>
         <style>
             body {
-                font-family: "Lucida Grande", "Helvetica Neue", sans-serif;
+                font-family: 'PT Mono', sans-serif;
+                background: white;
             }
-            p:after{
-                content: "{404}";
-                font-size:500px;
-                position:absolute;
-                top:0px;
-                padding:0;
-                margin:0;
-            }
-            body {
-                font-family: "Lucida Grande", "Helvetica Neue", sans-serif;
-                width:100%;
-                height:100%;
-                 font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-               font-weight: 300;
-
+            div.container {
+                margin: 0 auto;
+                max-width: 715px;
             }
 
-            *{}
-            p:after{
-                content:"{404}";
-                font-size:500px;
-                position:absolute;
-                top:0px;
-                padding:0;
-                margin:0;
-                z-index:1;
+            div.error-box {
+                color: #2c3e50;
+                text-align: center;
+                padding: 17px;
+                border: 2px dashed #34495e;
+                border-radius: 9px;
+                background: #ecf0f1;
+                margin-top: 35px;
             }
 
-            textarea{border:0;width:100%; height:1000px; font-size:50px; color:#666;z-index:2;position:absolute; background:rgba(0,0,0,0.0); font:"Courier", Courier, monospace;text-shadow:#fff -1px -1px 1px;}
+            div.error-box h3 {
+                font-size: 230px;
+                margin: 20px 0 15px 0;
+                font-weight: 100;
+            }
+
+            .error-box p {
+                font-size: 20px;
+                font-weight: bold;
+            }
+            .error-box a {
+                color: #34495e;
+            }
+
         </style>
-        <script>
-            var tl=new Array(
-                "The requested document isn't here .",
-                "I've tried everything.",
-                "And I've got... nothing.",
-                "I'm really concerned about this.",
-                "But how concerned can I really be?",
-                "I'm just a machine.",
-                "I'm simply trying to serve you.",
-                "But what you want doesn't even exist!",
-                "Where does that leave me?",
-                "I mean, I don't even *know* you.",
-                "How should I know what you really want?",
-                "Do you really think I can *guess*...",
-                "what someone I don't even *know*...",
-                "wants to find here?",
-                "*sigh*",
-                "I'm really kinda bummed about this.",
-                "But what good does that energy do anyone?",
-                "There's enough negativity out there as it is.",
-                "Isn't it better if I just move on with my day?",
-                "And you too?",
-                "What's Bonnie's little saying?",
-                "*Live your dreams. If you don't, someone else will.*",
-                "Hmm.",
-                "I could have a dream.",
-                "I mean, it's not totally out of the question.",
-                "Hell, I can have this chat with you.",
-                "Shouldn't I be able to dream?",
-                "So... what do I want to be when I grow up?",
-                "Hmm.",
-                "Well, I certainly wouldn't spend so much time just sitting here.",
-                "Yeah. I should get out more.",
-                "Out is a nice place.",
-                "Or *is* it?",
-                "Aw, sheesh... what do I know?",
-                "I'm really sorry to lay all this on you.",
-                "I mean, it's not your job to deal with my ramblings.",
-                "And I guess it pretty much *is* my job to serve you.",
-                "But I couldn't get this one little page for you.",
-                "I'm so sorry.",
-                "Augh!",
-                "Hey...",
-                "Maybe I could interest you in another page, eh?",
-                "There are tons around here that are pretty cool, actually.",
-                "Yeah.",
-                "Go explore.",
-                "Have fun.",
-                "Now.",
-                "Seriously.",
-                "You'd better go on now.",
-                "Please leave me to my thoughts.",
-                "And my dreams.",
-                "Yeah.",
-                "Ho, you still here...",
-                "So... some words in french now ! .",
-                "Bonjour."
-            );
-
-            var speed = 60
-              , index = 0
-              , text_pos = 0
-              , str_length = tl[0].length
-              , contents
-              , row
-              ;
-
-            function typeText () {
-                contents="";
-                row = Math.max(0,index-7);
-                while(row<index)
-                contents += tl[row++] + "\r\n";
-                document.forms[0].elements[0].value = contents + tl[index].substring(0,text_pos) + "_";
-                if(text_pos++==str_length) {
-                    text_pos=0;
-                    index++;
-                    if(index!=tl.length) {
-                        str_length=tl[index].length;
-                        setTimeout(typeText, 1500);
-                    }
-                } else
-                    setTimeout(typeText, speed);
-                };
-        </script>
     </head>
-    <body onload="typeText()">
-        <p></p>
-        <form>
-            <textarea rows="8" cols="60" wrap="soft" disabled></textarea>
-        </form>
+    <body>
+        <div class="container">
+            <div class="error-box">
+                <h3>404</h3>
+                <p>The requested document isn't here.
+                    <br>I'm really concerned about this.
+                    <br>But how concerned can I really be?
+                    <br>I'm just a machine.
+                </p>
+                * * *
+                <p>If you think that this is a bug, please report it
+                    <a href="https://github.com/Bloggify/Bloggify/issues/new">here</a>.
+                    <br>You're invited to return to the <a href="/">main page</a>.
+                </p>
+            </div>
+        </div>
     </body>
 </html>
