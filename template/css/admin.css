@@ -27,14 +27,16 @@ form.new-post textarea {
     padding: 0;
 }
 
-button.toggle-view {
-    background: transparent;
-    border: none;
-    border-radius: 32px;
-    font-size: 30px;
+.actions {
     position: fixed;
     top: 20px;
     right: 20px;
+}
+
+.actions button {
+    border: none;
+    border-radius: 32px;
+    font-size: 30px;
     cursor: pointer;
     background: #bdc3c7;
     width: 40px;

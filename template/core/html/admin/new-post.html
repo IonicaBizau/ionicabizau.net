@@ -7,14 +7,19 @@
         <link rel="stylesheet" href="{{{config.site.paths.template}}}/css/admin.css">
     </head>
     <body>
-        <button class="toggle-view" id="toggle-theme">
-            <i class="fa fa-lightbulb-o"></i>
-        </button>
         <div class="container">
-            <form action="/admin/posts/new" method="POST" class="new-post">
+            <form action="/admin/posts/new" method="POST" class="new-post" id="edit-form">
                 <input type="hidden" name="formId" value="new-post">
                 <input id="post-title" type="text" name="title" placeholder="Some interesting title">
                 <textarea id="post-content" class="content" name="content" placeholder="Write here your post"></textarea>
+                <div class="actions">
+                    <button type="submit">
+                        <i class="fa fa-bomb"></i>
+                    </button>
+                    <button class="toggle-view" id="toggle-theme">
+                        <i class="fa fa-lightbulb-o"></i>
+                    </button>
+                </div>
             </form>
         </div>
         <script>
@@ -34,8 +39,9 @@
                     ? "New Post - " + this.value : "New Post";
             });
 
-            toggleThemeEl.addEventListener("click", function () {
+            toggleThemeEl.addEventListener("click", function (e) {
                 document.body.classList.toggle("night-theme");
+                e.preventDefault();
             });
         </script>
     </body>
