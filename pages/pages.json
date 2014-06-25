@@ -1,20 +1,23 @@
-{
-    "/": {
+[
+    {
         "url": "/home.md"
+      , "path": "/"
       , "label": "Home"
       , "slug": "home"
       , "order": 10
     }
-  , "/faq": {
+  , {
         "url": "/faq.md"
+      , "path": "/faq"
       , "label": "FAQ"
       , "slug": "faq"
       , "order": 30
     }
-  , "/contact": {
+  , {
         "url": "/contact.md"
+      , "path": "/contact"
       , "label": "Contact"
       , "slug": "contact"
       , "order": 40
     }
-}
+]
