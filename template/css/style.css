@@ -130,6 +130,9 @@ div.top-header {
 }
 
 /* posts */
+div.post a.post-title h1 {
+    margin: 70px 0 -10px 0;
+}
 div.post {
     padding-bottom: 1em;
     margin: 0 auto 4em auto;
