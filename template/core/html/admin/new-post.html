@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>New Post</title>
+        <link rel="stylesheet" href="{{{config.site.paths.template}}}/css/style.css">
+        <link rel="stylesheet" href="{{{config.site.paths.template}}}/css/admin.css">
+    </head>
+    <body>
+        <div class="container">
+            <form action="/admin/posts/new" method="POST" class="new-post">
+                <input type="hidden" name="formId" value="new-post">
+                <input type="text" name="title" placeholder="Some interesting title">
+                <textarea id="post-content" class="content" name="content" placeholder="Write here your post"></textarea>
+            </form>
+        </div>
+        <script>
+            var postContentEl = document.getElementById("post-content")
+              , offsetTop = postContentEl.getBoundingClientRect().top
+              , bodyHeight = document.body.getBoundingClientRect().height
+              , newContentElHeight = bodyHeight - offsetTop - 10
+              ;
+
+            postContentEl.style.height = newContentElHeight + "px";
+            document.body.style.height = (bodyHeight - 100)  + "px";
+        </script>
+    </body>
+</html>

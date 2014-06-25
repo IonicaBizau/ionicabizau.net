@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+form.new-post {
+    margin-top: 100px;
+}
+
+form.new-post input, textarea {
+    width: 100% !important;
+    color: #444;
+    border: none;
+    outline: none;
+}
+
+form.new-post input[name="title"] {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 3em;
+}
+
+form.new-post textarea {
+    resize: none;
+    font-size: 1.7em;
+    padding: 0;
+}
