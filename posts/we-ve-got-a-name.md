@@ -1,0 +1,15 @@
+I am happy to announce you that the name of this blogging platform is **Bloggify**. It's just simple to pronounce and it's related to the term of *blogging*.
+
+[Urban Dictionary](http://www.urbandictionary.com/) gives an interesting definition of [this term](http://www.urbandictionary.com/define.php?term=bloggify):
+
+> to "bump" or "upgrade" a messageboard user's post or comment to a front page blog entry based on quality or content. initially used by the messageboard at talk.johnsebben.com
+
+> related words include: bloggified, bloggification
+
+> *"My post was good enough for a bloggification! Why wasn't it you jackasses. Bloggify it!"*
+
+---
+
+**Bloggigy** is will be open source soon, but until then, you can write us at [contact@bloggify.net](mailTo:contact@bloggify.net) and to check out the page of the project: [bloggify.net/](http://bloggify.net/).
+
+If you want to support Bloggify, just [tell us](mailTo:contact@bloggify.net) how you are able to help this project.
