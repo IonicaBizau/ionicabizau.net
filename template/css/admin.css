@@ -12,6 +12,7 @@ form.new-post input, textarea {
     color: #444;
     border: none;
     outline: none;
+    background: transparent;
 }
 
 form.new-post input[name="title"] {
@@ -26,6 +27,33 @@ form.new-post textarea {
     padding: 0;
 }
 
+button.toggle-view {
+    background: transparent;
+    border: none;
+    border-radius: 32px;
+    font-size: 30px;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    background: #bdc3c7;
+    width: 40px;
+    height: 40px;
+    color: #444;
+    outline: none;
+}
+
+/* Night theme */
+body.night-theme {
+    background: #444;
+}
+
+body.night-theme form.new-post input,
+body.night-theme form.new-post textarea {
+    color: white;
+}
+
+/* Scrollbars */
 ::-webkit-scrollbar {
     width: 8px;
 }

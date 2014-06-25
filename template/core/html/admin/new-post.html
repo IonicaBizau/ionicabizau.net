@@ -7,6 +7,9 @@
         <link rel="stylesheet" href="{{{config.site.paths.template}}}/css/admin.css">
     </head>
     <body>
+        <button class="toggle-view" id="toggle-theme">
+            <i class="fa fa-lightbulb-o"></i>
+        </button>
         <div class="container">
             <form action="/admin/posts/new" method="POST" class="new-post">
                 <input type="hidden" name="formId" value="new-post">
@@ -20,6 +23,7 @@
               , offsetTop = postContentEl.getBoundingClientRect().top
               , bodyHeight = document.body.getBoundingClientRect().height
               , newContentElHeight = bodyHeight - offsetTop - 10
+              , toggleThemeEl = document.getElementById("toggle-theme")
               ;
 
             postContentEl.style.height = newContentElHeight + "px";
@@ -28,6 +32,10 @@
             postTitleEl.addEventListener("input", function () {
                 document.title = this.value.length
                     ? "New Post - " + this.value : "New Post";
+            });
+
+            toggleThemeEl.addEventListener("click", function () {
+                document.body.classList.toggle("night-theme");
             });
         </script>
     </body>
