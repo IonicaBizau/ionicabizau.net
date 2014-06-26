@@ -1,27 +1,27 @@
 [
   {
-    "title": "We've Got a Name",
-    "slug": "we-ve-got-a-name",
-    "publishedAt": "25-06-2014",
-    "path": "we-ve-got-a-name.md",
+    "title": "sadasdasdasdasdadas",
+    "slug": "sadasdasdasdasdadas",
+    "publishedAt": "25-06-2014 23:00",
+    "path": "sadasdasdasdasdadas.md",
     "by": "Ionică Bizău",
-    "id": 3,
-    "content": "<p>I am happy to announce you that the name of this blogging platform is <strong>Bloggify</strong>. It&#39;s just simple to pronounce and it&#39;s related to the term of <em>blogging</em>.</p>\n<p><a href=\"http://www.urbandictionary.com/\">Urban Dictionary</a> gives an interesting definition of <a href=\"http://www.urbandictionary.com/define.php?term=bloggify\">this term</a>:</p>\n<blockquote>\n<p>to &quot;bump&quot; or &quot;upgrade&quot; a messageboard user&#39;s post or comment to a front page blog entry based on quality or content. initially used by the messageboard at talk.johnsebben.com</p>\n<p>related words include: bloggified, bloggification</p>\n<p><em>&quot;My post was good enough for a bloggification! Why wasn&#39;t it you jackasses. Bloggify it!&quot;</em></p>\n</blockquote>\n<hr>\n<p><strong>Bloggigy</strong> is will be open source soon, but until then, you can write us at <a href=\"mailTo:contact@bloggify.net\">contact@bloggify.net</a> and to check out the page of the project: <a href=\"http://bloggify.net/\">bloggify.net/</a>.</p>\n<p>If you want to support Bloggify, just <a href=\"mailTo:contact@bloggify.net\">tell us</a> how you are able to help this project.</p>\n",
-    "date": "25 Jun 2014",
-    "url": "/blog/3-we-ve-got-a-name",
-    "fullUrl": "http://dev.ionicabizau.net/blog/3-we-ve-got-a-name"
+    "id": 5
   },
   {
     "title": "The first post from UI",
     "slug": "the-first-post-from-ui",
-    "publishedAt": "25-06-2014",
+    "publishedAt": "25-06-2014 22:00",
     "path": "the-first-post-from-ui.md",
     "by": "Ionică Bizău",
-    "id": 4,
-    "content": "<p>This is the first post that was published from UI. Bloggify has a very simple editor. The posts are written in Markdown format. It&#39;s pretty simple to learn it. Not so complicated.</p>\n<p>Below you can see a screenshot with the editor.</p>\n<p><img src=\"http://i.imgur.com/KO2aFp5.png\" alt=\"Bloggify Editor\"></p>\n<p>Isn&#39;t it cool?</p>\n",
-    "date": "25 Jun 2014",
-    "url": "/blog/4-the-first-post-from-ui",
-    "fullUrl": "http://dev.ionicabizau.net/blog/4-the-first-post-from-ui"
+    "id": 4
+  },
+  {
+    "title": "We've Got a Name",
+    "slug": "we-ve-got-a-name",
+    "publishedAt": "25-06-2014 20:00",
+    "path": "we-ve-got-a-name.md",
+    "by": "Ionică Bizău",
+    "id": 3
   },
   {
     "title": "Testing Code Highlight",
@@ -29,11 +29,7 @@
     "publishedAt": "18-05-2014",
     "path": "testing-code-highlight.md",
     "by": "Ionică Bizău",
-    "id": "2",
-    "content": "<p>Code highlight is cool! Let&#39;s make some tests.</p>\n<p>The following pieces of code are taken from very this NodeJS based blogging platform.</p>\n<h2 id=\"css\">CSS</h2>\n<pre><code class=\"lang-css\"><span class=\"comment\">/* blockquotes */</span>\n<span class=\"tag\">blockquote</span> <span class=\"rules\">{\n  <span class=\"rule\"><span class=\"attribute\">background</span>:<span class=\"value\"> <span class=\"hexcolor\">#f9f9f9</span></span></span>;\n  <span class=\"rule\"><span class=\"attribute\">border-left</span>:<span class=\"value\"> <span class=\"number\">10</span>px solid <span class=\"hexcolor\">#ccc</span></span></span>;\n  <span class=\"rule\"><span class=\"attribute\">margin</span>:<span class=\"value\"> <span class=\"number\">1.5</span>em <span class=\"number\">10</span>px</span></span>;\n  <span class=\"rule\"><span class=\"attribute\">padding</span>:<span class=\"value\"> <span class=\"number\">0.5</span>em <span class=\"number\">10</span>px</span></span>;\n  <span class=\"rule\"><span class=\"attribute\">quotes</span>:<span class=\"value\"> <span class=\"string\">\"\\201C\"</span><span class=\"string\">\"\\201D\"</span><span class=\"string\">\"\\2018\"</span><span class=\"string\">\"\\2019\"</span></span></span>;\n<span class=\"rule\">}</span></span>\n<span class=\"tag\">blockquote</span><span class=\"pseudo\">:before</span> <span class=\"rules\">{\n  <span class=\"rule\"><span class=\"attribute\">color</span>:<span class=\"value\"> <span class=\"hexcolor\">#ccc</span></span></span>;\n  <span class=\"rule\"><span class=\"attribute\">content</span>:<span class=\"value\"> open-quote</span></span>;\n  <span class=\"rule\"><span class=\"attribute\">font-size</span>:<span class=\"value\"> <span class=\"number\">4</span>em</span></span>;\n  <span class=\"rule\"><span class=\"attribute\">line-height</span>:<span class=\"value\"> <span class=\"number\">0.1</span>em</span></span>;\n  <span class=\"rule\"><span class=\"attribute\">margin-right</span>:<span class=\"value\"> <span class=\"number\">0.25</span>em</span></span>;\n  <span class=\"rule\"><span class=\"attribute\">vertical-align</span>:<span class=\"value\"> -<span class=\"number\">0.4</span>em</span></span>;\n<span class=\"rule\">}</span></span>\n<span class=\"tag\">blockquote</span> <span class=\"tag\">p</span> <span class=\"rules\">{\n  <span class=\"rule\"><span class=\"attribute\">display</span>:<span class=\"value\"> inline</span></span>;\n<span class=\"rule\">}</span></span>\n</code></pre>\n<h2 id=\"javascript\">JavaScript</h2>\n<pre><code class=\"lang-js\">process.on(<span class=\"string\">\"uncaughtException\"</span>, <span class=\"function\"><span class=\"keyword\">function</span> <span class=\"params\">(err)</span> {</span>\n    console.error (err);\n});\n\n<span class=\"comment\">// dependencies</span>\n<span class=\"keyword\">var</span> Statique = <span class=\"keyword\">global</span>.Statique = <span class=\"keyword\">require</span> (<span class=\"string\">\"statique\"</span>)\n  , Utils = <span class=\"keyword\">require</span> (<span class=\"string\">\"./utils\"</span>)\n  , Config = <span class=\"keyword\">global</span>.Config = <span class=\"keyword\">require</span> (<span class=\"string\">\"./config.js\"</span>)\n  , Url = <span class=\"keyword\">require</span>(<span class=\"string\">\"url\"</span>)\n  , Http = <span class=\"keyword\">require</span> (<span class=\"string\">\"http\"</span>)\n  , Apis = <span class=\"keyword\">require</span> (<span class=\"string\">\"./apis\"</span>)\n  , ipaddress = Config.ipaddress || <span class=\"string\">\"localhost\"</span>\n  , port      = Config.port\n  ;\n\n<span class=\"comment\">// sessions</span>\n<span class=\"keyword\">global</span>.sessions = {};\n\n<span class=\"comment\">// create server</span>\nHttp.createServer (<span class=\"function\"><span class=\"keyword\">function</span><span class=\"params\">(req, res)</span> {</span>\n    <span class=\"comment\">/* some magic here */</span>\n}).listen(port, ipaddress);\n\n<span class=\"comment\">// print some output</span>\nconsole.log(<span class=\"string\">\"Server running at http://%s:%d\"</span>, ipaddress, port);\n</code></pre>\n<h2 id=\"html\">HTML</h2>\n<pre><code class=\"lang-html\"><span class=\"doctype\">&lt;!DOCTYPE html&gt;</span>\n<span class=\"tag\">&lt;<span class=\"title\">html</span> <span class=\"attribute\">lang</span>=<span class=\"value\">\"en\"</span>&gt;</span>\n    <span class=\"tag\">&lt;<span class=\"title\">head</span>&gt;</span>\n        <span class=\"tag\">&lt;<span class=\"title\">meta</span> <span class=\"attribute\">charset</span>=<span class=\"value\">\"UTF-8\"</span>&gt;</span>\n        <span class=\"tag\">&lt;<span class=\"title\">title</span>&gt;</span><span class=\"tag\">&lt;/<span class=\"title\">title</span>&gt;</span>\n        <span class=\"tag\">&lt;<span class=\"title\">style</span>&gt;</span><span class=\"css\">\n            <span class=\"tag\">body</span> <span class=\"rules\">{\n                <span class=\"rule\"><span class=\"attribute\">background</span>:<span class=\"value\"> red</span></span>;\n            <span class=\"rule\">}</span></span>\n        </span><span class=\"tag\">&lt;/<span class=\"title\">style</span>&gt;</span>\n    <span class=\"tag\">&lt;/<span class=\"title\">head</span>&gt;</span>\n    <span class=\"tag\">&lt;<span class=\"title\">body</span>&gt;</span>\n        <span class=\"tag\">&lt;<span class=\"title\">script</span>&gt;</span><span class=\"javascript\">\n            <span class=\"function\"><span class=\"keyword\">function</span> <span class=\"title\">foo</span> <span class=\"params\">()</span> {</span>\n                <span class=\"keyword\">return</span> <span class=\"built_in\">Math</span>.random() + <span class=\"number\">1</span>;\n            }\n            alert(foo());\n        </span><span class=\"tag\">&lt;/<span class=\"title\">script</span>&gt;</span>\n        <span class=\"tag\">&lt;<span class=\"title\">h1</span>&gt;</span>Hello World<span class=\"tag\">&lt;/<span class=\"title\">h1</span>&gt;</span>\n    <span class=\"tag\">&lt;/<span class=\"title\">body</span>&gt;</span>\n<span class=\"tag\">&lt;/<span class=\"title\">html</span>&gt;</span>\n</code></pre>\n<p>So, isn&#39;t this code highlight beautiful?</p>\n",
-    "date": "18 May 2014",
-    "url": "/blog/2-testing-code-highlight",
-    "fullUrl": "http://dev.ionicabizau.net/blog/2-testing-code-highlight"
+    "id": 2
   },
   {
     "title": "Hello World",
@@ -41,18 +37,6 @@
     "publishedAt": "15-05-2014",
     "path": "hello-world.md",
     "by": "Ionică Bizău",
-    "id": "1",
-    "content": "<p>Welcome to my first post on this blog. Bored of complicated designs and settings, I decided to start my own NodeJS based blogging platform.</p>\n<p>The basic template settings are written in HTML, CSS &amp; JSON. The content - including pages and blog posts - is written in Markdown.</p>\n<blockquote>\n<p>Markdown is a plain text formatting syntax designed so that it can optionally be converted to HTML using a tool by the same name.\nMarkdown is popularly used as format for readme files, or for writing messages in online discussion forums, or in text editors for\nthe quick creation of rich text documents. <sup><a href=\"http://en.wikipedia.org/wiki/Markdown\"><em>Wikipedia</em></a></sup></p>\n</blockquote>\n<p>No database needed! Because I love JSON format, I decided to save the content details in JSON files. Some server caching methods\nare used to give the needed speed and power to this little platform.</p>\n<p>All the history is saved in a <a href=\"https://github.com/IonicaBizau/blog\">git repository</a> that can be forked anybody being able to contribute (fixing typos, grammar etc).</p>\n<p>Feel free to <a href=\"/contact\">contact</a> me. I try to answer every message, so you can try. :smile:\nI invite you to follow me on <a href=\"https://twitter.com/IonicaBizau\">Twitter @IonicaBizau</a> where I anounce my latest projects. Also,\ndon&#39;t forget to checkout my <a href=\"https://github.com/IonicaBizau\">GitHub profile</a>.</p>\n<pre><code class=\"lang-js\"><span class=\"function\"><span class=\"keyword\">function</span> <span class=\"title\">foo</span> <span class=\"params\">()</span> {</span>\n    <span class=\"keyword\">return</span> <span class=\"built_in\">Math</span>.random() + <span class=\"number\">1</span>;\n}\n</code></pre>\n",
-    "date": "15 May 2014",
-    "url": "/blog/1-hello-world",
-    "fullUrl": "http://dev.ionicabizau.net/blog/1-hello-world"
-  },
-  {
-    "title": "sadasdasdasdasdadas",
-    "slug": "sadasdasdasdasdadas",
-    "publishedAt": "25-06-2014",
-    "path": "sadasdasdasdasdadas.md",
-    "by": "Ionică Bizău",
-    "id": 5
+    "id": 1
   }
 ]
