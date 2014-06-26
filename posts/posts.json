@@ -1,5 +1,21 @@
 [
   {
+    "title": "Just another post",
+    "slug": "just-another-post",
+    "publishedAt": "26-06-2014",
+    "path": "just-another-post.md",
+    "by": "Ionică Bizău",
+    "id": 6
+  },
+  {
+    "title": "Still testing",
+    "slug": "still-testing",
+    "publishedAt": "26-06-2014",
+    "path": "still-testing.md",
+    "by": "Ionică Bizău",
+    "id": 7
+  },
+  {
     "title": "sadasdasdasdasdadas",
     "slug": "sadasdasdasdasdadas",
     "publishedAt": "25-06-2014 23:00",

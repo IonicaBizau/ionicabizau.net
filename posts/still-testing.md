@@ -1,0 +1,1 @@
+The [previous post](/blog/6) was added successfully. It's time for some pagination tests.
