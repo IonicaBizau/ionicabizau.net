@@ -1,5 +1,13 @@
 [
   {
+    "title": "Another post",
+    "slug": "another-post",
+    "publishedAt": "29-06-2014",
+    "path": "another-post.md",
+    "by": "Ionică Bizău",
+    "id": 8
+  },
+  {
     "title": "Just another post",
     "slug": "just-another-post",
     "publishedAt": "26-06-2014",
