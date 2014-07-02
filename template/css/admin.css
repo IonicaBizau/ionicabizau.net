@@ -27,6 +27,13 @@ form.new-post textarea {
     padding: 0;
 }
 
+input[name="tags"] {
+    padding: 10px;
+    font-size: 25px;
+    font-family: "Open Sans";
+    font-weight: bold;
+}
+
 .actions {
     position: fixed;
     top: 20px;

@@ -12,6 +12,9 @@
                 <input type="hidden" name="formId" value="new-post">
                 <input id="post-title" type="text" name="title" placeholder="Some interesting title">
                 <textarea id="post-content" class="content" name="content" placeholder="Write here your post"></textarea>
+                {{#config.options.postTags}}
+                    <input type="text" name="tags" placeholder="Your post tags">
+                {{/config.options.postTags}}
                 <div class="actions">
                     <button type="submit">
                         <i class="fa fa-bomb"></i>
@@ -27,7 +30,7 @@
               , postTitleEl = document.getElementById("post-title")
               , offsetTop = postContentEl.getBoundingClientRect().top
               , bodyHeight = document.body.getBoundingClientRect().height
-              , newContentElHeight = bodyHeight - offsetTop - 10
+              , newContentElHeight = bodyHeight - offsetTop - 70
               , toggleThemeEl = document.getElementById("toggle-theme")
               ;
 

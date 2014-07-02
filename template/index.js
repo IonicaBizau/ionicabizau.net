@@ -68,4 +68,3 @@ const DATA_OBJECT = {
 // Render Mustache elements
 Template.single.page = Mustache.render(Template.single.page, DATA_OBJECT);
 Template.single.post = Mustache.render(Template.single.post, DATA_OBJECT);
-
