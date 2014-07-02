@@ -1,5 +1,17 @@
 [
   {
+    "title": "Hi",
+    "slug": "hi",
+    "publishedAt": "02-07-2014",
+    "by": "Ionică Bizău",
+    "id": 9,
+    "tags": [
+      "some",
+      "tags",
+      "here"
+    ]
+  },
+  {
     "title": "Another post",
     "slug": "another-post",
     "publishedAt": "29-06-2014",
