@@ -15,7 +15,6 @@
     "title": "Another post",
     "slug": "another-post",
     "publishedAt": "29-06-2014",
-    "path": "another-post.md",
     "by": "Ionică Bizău",
     "id": 8
   },
@@ -23,7 +22,6 @@
     "title": "Just another post",
     "slug": "just-another-post",
     "publishedAt": "26-06-2014",
-    "path": "just-another-post.md",
     "by": "Ionică Bizău",
     "id": 6
   },
@@ -31,7 +29,6 @@
     "title": "Still testing",
     "slug": "still-testing",
     "publishedAt": "26-06-2014",
-    "path": "still-testing.md",
     "by": "Ionică Bizău",
     "id": 7
   },
@@ -39,7 +36,6 @@
     "title": "sadasdasdasdasdadas",
     "slug": "sadasdasdasdasdadas",
     "publishedAt": "25-06-2014 23:00",
-    "path": "sadasdasdasdasdadas.md",
     "by": "Ionică Bizău",
     "id": 5
   },
@@ -47,7 +43,6 @@
     "title": "The first post from UI",
     "slug": "the-first-post-from-ui",
     "publishedAt": "25-06-2014 22:00",
-    "path": "the-first-post-from-ui.md",
     "by": "Ionică Bizău",
     "id": 4
   },
@@ -55,7 +50,6 @@
     "title": "We've Got a Name",
     "slug": "we-ve-got-a-name",
     "publishedAt": "25-06-2014 20:00",
-    "path": "we-ve-got-a-name.md",
     "by": "Ionică Bizău",
     "id": 3
   },
@@ -63,7 +57,6 @@
     "title": "Testing Code Highlight",
     "slug": "testing-code-highlight",
     "publishedAt": "18-05-2014",
-    "path": "testing-code-highlight.md",
     "by": "Ionică Bizău",
     "id": 2
   },
@@ -71,7 +64,6 @@
     "title": "Hello World",
     "slug": "hello-world",
     "publishedAt": "15-05-2014",
-    "path": "hello-world.md",
     "by": "Ionică Bizău",
     "id": 1
   }
