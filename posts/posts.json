@@ -1,5 +1,18 @@
 [
   {
+    "title": "Post with tags",
+    "slug": "post-with-tags",
+    "publishedAt": "03-07-2014",
+    "by": "Ionică Bizău",
+    "id": 10,
+    "tags": [
+      "API",
+      "plugins",
+      "tags",
+      "posts"
+    ]
+  },
+  {
     "title": "A very interesting title",
     "slug": "a-very-interesting-title",
     "publishedAt": "02-07-2014",
