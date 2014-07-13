@@ -1,5 +1,16 @@
 [
   {
+    "title": "How to develop a new Bloggify Theme",
+    "slug": "how-to-develop-a-new-bloggify-theme",
+    "publishedAt": "13-07-2014",
+    "by": "Ionică Bizău",
+    "id": 11,
+    "tags": [
+      "themes",
+      "developer"
+    ]
+  },
+  {
     "title": "Post with tags",
     "slug": "post-with-tags",
     "publishedAt": "03-07-2014",
