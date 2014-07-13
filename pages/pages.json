@@ -20,4 +20,12 @@
       , "slug": "contact"
       , "order": 40
     }
+  , {
+        "url": "/featured.md"
+      , "path": "/featured-page"
+      , "label": "Featured Page"
+      , "slug": "featured-page"
+      , "order": 50
+      , "template": "/custom-pages/featured.html"
+    }
 ]
