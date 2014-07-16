@@ -17,9 +17,21 @@
 
                 var mb = null
                   , message = err || data
+                  , invalidField = err && err.fields && err.fields[0]
+                  , formElms = document.querySelectorAll("form [name]")
                   ;
 
-                if (err) { mb = mbErrorEl; }
+                if (err) {
+                    for (var i = 0; i < formElms.length; ++i) {
+                        var cEl = formElms[i];
+                        cEl.style.borderColor = "#2980b9";
+                        if (invalidField === cEl.getAttribute("name")) {
+                            cEl.style.borderColor = "#e74c3c";
+                            cEl.focus();
+                        }
+                    }
+                    mb = mbErrorEl;
+                }
                 else { mb = mbSuccessEl; }
 
                 mb.innerHTML = message.message || message;
@@ -27,7 +39,7 @@
                 mb.classList.remove("fadeInUp");
                 mb.classList.add("fadeInUp");
                 if (!err) {
-                    formEl.classList.add("flipOutX");
+                    document.querySelector("form").remove()
                 }
             });
             e.preventDefault();
