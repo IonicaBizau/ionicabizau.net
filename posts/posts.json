@@ -8,7 +8,8 @@
     "tags": [
       "themes",
       "developer"
-    ]
+    ],
+    "_id": "53c574e48988b5aa4a9e8478"
   },
   {
     "title": "Post with tags",
@@ -21,7 +22,8 @@
       "plugins",
       "tags",
       "posts"
-    ]
+    ],
+    "_id": "53c574e48988b5aa4a9e8479"
   },
   {
     "title": "A very interesting title",
@@ -33,62 +35,71 @@
       "some",
       "tags",
       "here"
-    ]
+    ],
+    "_id": "53c574e48988b5aa4a9e847a"
   },
   {
     "title": "Another post",
     "slug": "another-post",
     "publishedAt": "29-06-2014",
     "by": "Ionică Bizău",
-    "id": 8
+    "id": 8,
+    "_id": "53c574e48988b5aa4a9e847b"
   },
   {
     "title": "Just another post",
     "slug": "just-another-post",
     "publishedAt": "26-06-2014",
     "by": "Ionică Bizău",
-    "id": 6
+    "id": 6,
+    "_id": "53c574e48988b5aa4a9e847c"
   },
   {
     "title": "Still testing",
     "slug": "still-testing",
     "publishedAt": "26-06-2014",
     "by": "Ionică Bizău",
-    "id": 7
+    "id": 7,
+    "_id": "53c574e48988b5aa4a9e847d"
   },
   {
     "title": "sadasdasdasdasdadas",
     "slug": "sadasdasdasdasdadas",
     "publishedAt": "25-06-2014 23:00",
     "by": "Ionică Bizău",
-    "id": 5
+    "id": 5,
+    "_id": "53c574e48988b5aa4a9e847e"
   },
   {
     "title": "The first post from UI",
     "slug": "the-first-post-from-ui",
     "publishedAt": "25-06-2014 22:00",
     "by": "Ionică Bizău",
-    "id": 4
+    "id": 4,
+    "_id": "53c574e48988b5aa4a9e847f"
   },
   {
     "title": "We've Got a Name",
     "slug": "we-ve-got-a-name",
     "publishedAt": "25-06-2014 20:00",
     "by": "Ionică Bizău",
-    "id": 3
+    "id": 3,
+    "_id": "53c574e48988b5aa4a9e8480"
   },
   {
     "title": "Testing Code Highlight",
     "slug": "testing-code-highlight",
     "publishedAt": "18-05-2014",
     "by": "Ionică Bizău",
-    "id": 2
+    "id": 2,
+    "_id": "53c574e48988b5aa4a9e8481"
   },
   {
     "title": "Hello World",
     "slug": "hello-world",
     "publishedAt": "15-05-2014",
     "by": "Ionică Bizău",
-    "id": 1
+    "id": 1,
+    "_id": "53c574e48988b5aa4a9e8482"
   }
 ]
