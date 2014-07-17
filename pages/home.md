@@ -12,9 +12,9 @@ In the end of 2012, I became a member of the [jillix team][1], a Swiss company,
 working as web developer. That's how I met Node.JS.
 
 ~~In my free time,~~ I like to write plugins and modules (most of them written in
-JavaScript/Node.JS), publishing them on [GitHub][2]. There I a lot of open source
-projects. I love JavaScript a lot. It's easy and powerful... just perfect for me.
-Also, sometimes I write small bash scripts designed to optimize my work.
+JavaScript/Node.JS), publishing them on [GitHub][2]. There I have a lot of open
+source projects. I love JavaScript a lot. It's easy and powerful... just perfect
+for me. Also, sometimes I write small bash scripts designed to optimize my work.
 
 I am a [StackOverflow user][3], being on [21nd position from Romanian users][4].
 You can check out [my profile by clicking here][5].
