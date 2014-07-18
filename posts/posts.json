@@ -1,11 +1,28 @@
 [
   {
+    "title": "Tweak your terminal with flat colors",
+    "slug": "tweak-your-terminal-with-flat-colors",
+    "publishedAt": "17-07-2014",
+    "by": "Ionică Bizău",
+    "id": 5,
+    "tags": [
+      "terminal",
+      "design",
+      "flat colors"
+    ],
+    "_id": "53c798b3d6b05c541c1da1fb"
+  },
+  {
     "title": "First post from UI",
     "slug": "first-post-from-ui",
     "publishedAt": "25-06-2014 22:00",
     "by": "Ionică Bizău",
     "id": 4,
-    "tags": ["news", "bloggify", "user interface"],
+    "tags": [
+      "news",
+      "bloggify",
+      "user interface"
+    ],
     "_id": "53c574e48988b5aa4a9e847f"
   },
   {
@@ -14,7 +31,10 @@
     "publishedAt": "25-06-2014 20:00",
     "by": "Ionică Bizău",
     "id": 3,
-    "tags": ["news", "bloggify"],
+    "tags": [
+      "news",
+      "bloggify"
+    ],
     "_id": "53c574e48988b5aa4a9e8480"
   },
   {
@@ -23,7 +43,10 @@
     "publishedAt": "18-05-2014",
     "by": "Ionică Bizău",
     "id": 2,
-    "tags": ["features", "code"],
+    "tags": [
+      "features",
+      "code"
+    ],
     "_id": "53c574e48988b5aa4a9e8481"
   },
   {
@@ -32,7 +55,9 @@
     "publishedAt": "15-05-2014",
     "by": "Ionică Bizău",
     "id": 1,
-    "tags": ["news"],
+    "tags": [
+      "news"
+    ],
     "_id": "53c574e48988b5aa4a9e8482"
   }
 ]
