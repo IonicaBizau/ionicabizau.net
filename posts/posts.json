@@ -1,5 +1,17 @@
 [
   {
+    "title": "Generate ASCII boxes with NodeJS",
+    "slug": "generate-ascii-boxes-with-nodejs",
+    "publishedAt": "22-07-2014",
+    "by": "Ionică Bizău",
+    "id": 6,
+    "tags": [
+      "ASCII",
+      "NodeJS",
+      "NPM"
+    ]
+  },
+  {
     "title": "Tweak your terminal with flat colors",
     "slug": "tweak-your-terminal-with-flat-colors",
     "publishedAt": "17-07-2014",
