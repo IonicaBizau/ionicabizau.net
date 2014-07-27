@@ -1,5 +1,18 @@
 [
   {
+    "title": "«Le Table» - Create ASCII tables in Node.JS",
+    "slug": "-le-table---create-ascii-tables-in-node-js",
+    "publishedAt": "27-07-2014",
+    "by": "Ionică Bizău",
+    "id": 7,
+    "tags": [
+      "ASCII",
+      "NPM",
+      "NodeJS",
+      "table"
+    ]
+  },
+  {
     "title": "Generate ASCII boxes with NodeJS",
     "slug": "generate-ascii-boxes-with-nodejs",
     "publishedAt": "22-07-2014",
