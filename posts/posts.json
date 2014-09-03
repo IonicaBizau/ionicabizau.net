@@ -1,5 +1,17 @@
 [
   {
+    "title": "Switzerland, GitHub and Octocats",
+    "slug": "switzerland-github-and-octocats",
+    "publishedAt": "03-09-2014",
+    "by": "Ionică Bizău",
+    "id": 9,
+    "tags": [
+      "github",
+      "news"
+    ],
+    "_id": "540728896a0af4ad465dd805"
+  },
+  {
     "title": "Introducing MiniLightbox",
     "slug": "introducing-minilightbox",
     "publishedAt": "28-08-2014",
