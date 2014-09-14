@@ -1,4 +1,4 @@
-Hi. My name is Ionică Bizău. I am an 18 (still counting!) year old student, web
+Hi. My name is Ionică Bizău. I am an 19 (still counting!) year old student, web
 developer and piano player from Romania.
 
 I started studying computer science five years ago, starting with little C++
