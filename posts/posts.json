@@ -1,5 +1,19 @@
 [
   {
+    "title": "Creating Twitter Bootstrap theme with Compass",
+    "slug": "creating-twitter-bootstrap-theme-with-compass",
+    "publishedAt": "15-10-2014",
+    "by": "Ionică Bizău",
+    "id": 11,
+    "tags": [
+      "Twitter",
+      "Bootstrap",
+      "Theme",
+      "SASS",
+      "Compass"
+    ]
+  },
+  {
     "title": "regex-parser@1.0.0 is released",
     "slug": "regex-parser-1-0-0-is-released",
     "publishedAt": "29-09-2014",
