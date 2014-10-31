@@ -1,23 +1,26 @@
 [
-    {
-        "url": "/home.md"
-      , "path": "/"
-      , "label": "Home"
-      , "slug": "home"
-      , "order": 10
-    }
-  , {
-        "url": "/faq.md"
-      , "path": "/faq"
-      , "label": "FAQ"
-      , "slug": "faq"
-      , "order": 30
-    }
-  , {
-        "url": "/contact.md"
-      , "path": "/contact"
-      , "label": "Contact"
-      , "slug": "contact"
-      , "order": 50
-    }
+  {
+    "url": "/home.md",
+    "path": "/",
+    "label": "Home",
+    "slug": "home",
+    "order": 10,
+    "_id": "54534c6423d2117845fac64e"
+  },
+  {
+    "url": "/faq.md",
+    "path": "/faq",
+    "label": "FAQ",
+    "slug": "faq",
+    "order": 30,
+    "_id": "54534c6423d2117845fac64f"
+  },
+  {
+    "url": "/contact.md",
+    "path": "/contact",
+    "label": "Contact",
+    "slug": "contact",
+    "order": 50,
+    "_id": "54534c6423d2117845fac650"
+  }
 ]
