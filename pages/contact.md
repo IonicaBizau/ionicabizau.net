@@ -4,29 +4,32 @@ If you have any questions, just send me a message. If you just want to say "Hi",
 <div id="mb-success" class="animated message-box success hide"></div>
 <form id="contact-form" class="contact-form animated" action="/contact" method="POST">
     <input type="hidden" name="formId" value="contact">
-    <table>
-        <tbody>
-            <tr>
-                <td>Name</td>
-                <td><input type="text" name="name"></td>
-            </tr>
-            <tr>
-                <td>Email Address</td>
-                <td><input type="text" name="email"></td>
-            </tr>
-            <tr>
-                <td>Subject</td>
-                <td><input type="text" name="subject"></td>
-            </tr>
-            <tr>
-                <td>Message</td>
-                <td><textarea name="message"></textarea></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td><input type="submit" value="Send"></td>
-            </tr>
-        </tbody>
-    </table>
+    <div>
+        <label>
+            <span>Name</span>
+            <input name="name" type="text" tabindex="1" autofocus="" />
+        </label>
+    </div>
+    <div>
+        <label>
+            <span>Email</span>
+            <input name="email" type="text" tabindex="2" />
+        </label>
+    </div>
+    <div>
+        <label>
+            <span>Subject</span>
+            <input name="subject" type="text" tabindex="3" />
+        </label>
+    </div>
+    <div>
+        <label>
+            <span>Message</span>
+            <textarea name="message" tabindex="4"></textarea>
+        </label>
+    </div>
+    <div>
+        <input type="submit" value="Send" />
+    </div>
 </form>
 <script src="/js/contact-handlers.js"></script>
