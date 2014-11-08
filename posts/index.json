@@ -9,8 +9,7 @@
       "Node.JS",
       "NPM",
       "Statique"
-    ],
-    "_id": "544668c8404f864f661cfdea"
+    ]
   },
   {
     "title": "Creating a Twitter Bootstrap theme with Compass",
@@ -24,8 +23,7 @@
       "Theme",
       "SASS",
       "Compass"
-    ],
-    "_id": "543ec42e0f04a2ea5c56e6e1"
+    ]
   },
   {
     "title": "regex-parser@1.0.0 is released",
@@ -37,8 +35,7 @@
       "Node.JS",
       "regex",
       "npm"
-    ],
-    "_id": "543ec42e0f04a2ea5c56e6e2"
+    ]
   },
   {
     "title": "Switzerland, GitHub and Octocats",
@@ -49,8 +46,7 @@
     "tags": [
       "github",
       "news"
-    ],
-    "_id": "540728896a0af4ad465dd805"
+    ]
   },
   {
     "title": "Introducing MiniLightbox",
@@ -62,8 +58,7 @@
       "New Features",
       "JavaScript",
       "CSS"
-    ],
-    "_id": "53ff6e39995b20aa5fc09233"
+    ]
   },
   {
     "title": "«Le Table» - Create ASCII tables with Node.JS",
@@ -76,8 +71,7 @@
       "NPM",
       "NodeJS",
       "table"
-    ],
-    "_id": "53ff52149b9bb723345d1cd4"
+    ]
   },
   {
     "title": "Generate ASCII boxes with NodeJS",
@@ -89,21 +83,7 @@
       "ASCII",
       "NodeJS",
       "NPM"
-    ],
-    "_id": "53ff52149b9bb723345d1cd5"
-  },
-  {
-    "title": "Tweak your terminal with flat colors",
-    "slug": "tweak-your-terminal-with-flat-colors",
-    "date": "17-07-2014",
-    "by": "Ionică Bizău",
-    "id": 5,
-    "tags": [
-      "terminal",
-      "design",
-      "flat colors"
-    ],
-    "_id": "53c798b3d6b05c541c1da1fb"
+    ]
   },
   {
     "title": "First post from UI",
@@ -115,8 +95,7 @@
       "news",
       "bloggify",
       "user interface"
-    ],
-    "_id": "53c574e48988b5aa4a9e847f"
+    ]
   },
   {
     "title": "We've Got a Name",
@@ -127,8 +106,7 @@
     "tags": [
       "news",
       "bloggify"
-    ],
-    "_id": "53c574e48988b5aa4a9e8480"
+    ]
   },
   {
     "title": "Testing Code Highlight",
@@ -139,8 +117,7 @@
     "tags": [
       "features",
       "code"
-    ],
-    "_id": "53c574e48988b5aa4a9e8481"
+    ]
   },
   {
     "title": "Hello World",
@@ -150,7 +127,18 @@
     "id": 1,
     "tags": [
       "news"
-    ],
-    "_id": "53c574e48988b5aa4a9e8482"
+    ]
+  },
+  {
+    "title": "Tweak your terminal with flat colors",
+    "slug": "tweak-your-terminal-with-flat-colors",
+    "date": "17-07-2014",
+    "by": "Ionică Bizău",
+    "id": 5,
+    "tags": [
+      "terminal",
+      "design",
+      "flat colors"
+    ]
   }
 ]
