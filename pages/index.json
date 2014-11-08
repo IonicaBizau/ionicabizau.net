@@ -1,16 +1,23 @@
 [
   {
     "title": "Home",
+    "slug": "home",
+    "order": 10,
     "path": "/",
-    "order": 10
+    "_id": "545e4413e7b3aa7a13837a02"
   },
   {
     "title": "FAQ",
-    "order": 30
+    "slug": "faq",
+    "order": 30,
+    "path": "/faq",
+    "_id": "545e4413e7b3aa7a13837a03"
   },
   {
     "title": "Contact",
+    "slug": "contact",
+    "order": 50,
     "path": "/contact",
-    "order": 50
+    "_id": "545e4413e7b3aa7a13837a04"
   }
 ]
