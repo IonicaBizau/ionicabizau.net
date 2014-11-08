@@ -1,26 +1,16 @@
 [
   {
-    "url": "/home.md",
+    "title": "Home",
     "path": "/",
-    "label": "Home",
-    "slug": "home",
-    "order": 10,
-    "_id": "54534c6423d2117845fac64e"
+    "order": 10
   },
   {
-    "url": "/faq.md",
-    "path": "/faq",
-    "label": "FAQ",
-    "slug": "faq",
-    "order": 30,
-    "_id": "54534c6423d2117845fac64f"
+    "title": "FAQ",
+    "order": 30
   },
   {
-    "url": "/contact.md",
+    "title": "Contact",
     "path": "/contact",
-    "label": "Contact",
-    "slug": "contact",
-    "order": 50,
-    "_id": "54534c6423d2117845fac650"
+    "order": 50
   }
 ]
