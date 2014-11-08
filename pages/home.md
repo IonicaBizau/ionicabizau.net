@@ -1,4 +1,4 @@
-Hi. My name is Ionică Bizău. I am an 18 (still counting!) year old student, web
+Hi. My name is Ionică Bizău. I am a 19 (still counting!) year old student, web
 developer and piano player from Romania.
 
 I started studying computer science five years ago, starting with little C++
@@ -16,7 +16,7 @@ JavaScript/Node.JS), publishing them on [GitHub][2]. There I have a lot of open
 source projects. I love JavaScript a lot. It's easy and powerful... just perfect
 for me. Also, sometimes I write small bash scripts designed to optimize my work.
 
-I am a [StackOverflow user][3], being on [21st position from Romanian users][4].
+I am a [StackOverflow user][3], being on [20th position from Romanian users][4].
 You can check out [my profile by clicking here][5].
 
 You can find my music videos on [my YouTube channel][6].

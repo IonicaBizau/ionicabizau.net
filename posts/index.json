@@ -1,5 +1,46 @@
 [
   {
+    "title": "Statique@1.0.0 is released",
+    "slug": "statique-1-0-0-is-released",
+    "date": "21-10-2014",
+    "by": "Ionică Bizău",
+    "id": 12,
+    "tags": [
+      "Node.JS",
+      "NPM",
+      "Statique"
+    ],
+    "_id": "544668c8404f864f661cfdea"
+  },
+  {
+    "title": "Creating a Twitter Bootstrap theme with Compass",
+    "slug": "creating-twitter-bootstrap-theme-with-compass",
+    "date": "15-10-2014",
+    "by": "Ionică Bizău",
+    "id": 11,
+    "tags": [
+      "Twitter",
+      "Bootstrap",
+      "Theme",
+      "SASS",
+      "Compass"
+    ],
+    "_id": "543ec42e0f04a2ea5c56e6e1"
+  },
+  {
+    "title": "regex-parser@1.0.0 is released",
+    "slug": "regex-parser-1-0-0-is-released",
+    "date": "29-09-2014",
+    "by": "Ionică Bizău",
+    "id": 10,
+    "tags": [
+      "Node.JS",
+      "regex",
+      "npm"
+    ],
+    "_id": "543ec42e0f04a2ea5c56e6e2"
+  },
+  {
     "title": "Switzerland, GitHub and Octocats",
     "slug": "switzerland-github-and-octocats",
     "date": "03-09-2014",
