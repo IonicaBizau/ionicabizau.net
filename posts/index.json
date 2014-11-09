@@ -2,7 +2,7 @@
   {
     "title": "Statique@1.0.0 is released",
     "slug": "statique-1-0-0-is-released",
-    "publishedAt": "21-10-2014",
+    "date": "21-10-2014",
     "by": "Ionică Bizău",
     "id": 12,
     "tags": [
@@ -15,7 +15,7 @@
   {
     "title": "Creating a Twitter Bootstrap theme with Compass",
     "slug": "creating-twitter-bootstrap-theme-with-compass",
-    "publishedAt": "15-10-2014",
+    "date": "15-10-2014",
     "by": "Ionică Bizău",
     "id": 11,
     "tags": [
@@ -30,7 +30,7 @@
   {
     "title": "regex-parser@1.0.0 is released",
     "slug": "regex-parser-1-0-0-is-released",
-    "publishedAt": "29-09-2014",
+    "date": "29-09-2014",
     "by": "Ionică Bizău",
     "id": 10,
     "tags": [
@@ -43,7 +43,7 @@
   {
     "title": "Switzerland, GitHub and Octocats",
     "slug": "switzerland-github-and-octocats",
-    "publishedAt": "03-09-2014",
+    "date": "03-09-2014",
     "by": "Ionică Bizău",
     "id": 9,
     "tags": [
@@ -55,7 +55,7 @@
   {
     "title": "Introducing MiniLightbox",
     "slug": "introducing-minilightbox",
-    "publishedAt": "28-08-2014",
+    "date": "28-08-2014",
     "by": "Ionică Bizău",
     "id": 8,
     "tags": [
@@ -68,7 +68,7 @@
   {
     "title": "«Le Table» - Create ASCII tables with Node.JS",
     "slug": "le-table-create-ascii-tables-with-node-js",
-    "publishedAt": "27-07-2014",
+    "date": "27-07-2014",
     "by": "Ionică Bizău",
     "id": 7,
     "tags": [
@@ -82,7 +82,7 @@
   {
     "title": "Generate ASCII boxes with NodeJS",
     "slug": "generate-ascii-boxes-with-nodejs",
-    "publishedAt": "22-07-2014",
+    "date": "22-07-2014",
     "by": "Ionică Bizău",
     "id": 6,
     "tags": [
@@ -95,7 +95,7 @@
   {
     "title": "First post from UI",
     "slug": "first-post-from-ui",
-    "publishedAt": "25-06-2014 22:00",
+    "date": "25-06-2014 22:00",
     "by": "Ionică Bizău",
     "id": 4,
     "tags": [
@@ -108,7 +108,7 @@
   {
     "title": "We've Got a Name",
     "slug": "we-ve-got-a-name",
-    "publishedAt": "25-06-2014 20:00",
+    "date": "25-06-2014 20:00",
     "by": "Ionică Bizău",
     "id": 3,
     "tags": [
@@ -120,7 +120,7 @@
   {
     "title": "Testing Code Highlight",
     "slug": "testing-code-highlight",
-    "publishedAt": "18-05-2014",
+    "date": "18-05-2014",
     "by": "Ionică Bizău",
     "id": 2,
     "tags": [
@@ -132,7 +132,7 @@
   {
     "title": "Hello World",
     "slug": "hello-world",
-    "publishedAt": "15-05-2014",
+    "date": "15-05-2014",
     "by": "Ionică Bizău",
     "id": 1,
     "tags": [
@@ -143,7 +143,7 @@
   {
     "title": "Tweak your terminal with flat colors",
     "slug": "tweak-your-terminal-with-flat-colors",
-    "publishedAt": "17-07-2014",
+    "date": "17-07-2014",
     "by": "Ionică Bizău",
     "id": 5,
     "tags": [
