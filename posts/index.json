@@ -4,7 +4,7 @@
     "title": "Statique@1.0.0 is released",
     "date": "2014-10-20T21:00:00.000Z",
     "id": 12,
-    "by": "IonicaBizau",
+    "by": "Ionică Bizău",
     "tags": [
       "Node.JS",
       "NPM",
@@ -134,7 +134,7 @@
     "title": "Hello World",
     "date": "2014-05-20T18:00:00.000Z",
     "id": 1,
-    "by": "IonicaBizau",
+    "by": "Ionică Bizău",
     "tags": [
       "news"
     ],
@@ -158,7 +158,7 @@
     "title": "Lorem",
     "date": "2001-01-18T22:00:00.000Z",
     "id": 13,
-    "by": "IonicaBizau",
+    "by": "Ionică Bizău",
     "tags": [
       "test",
       "lorem"
@@ -168,7 +168,7 @@
   {
     "_id": "545f73834c0c9f73094796cd",
     "title": "Ipsum",
-    "by": "IonicaBizau",
+    "by": "Ionică Bizău",
     "tags": [
       "asd"
     ],
