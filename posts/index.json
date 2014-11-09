@@ -156,13 +156,13 @@
   {
     "_id": "545f71854c0c9f73094796cc",
     "title": "Lorem",
+    "date": "2001-01-18T22:00:00.000Z",
+    "id": 13,
     "by": "IonicaBizau",
     "tags": [
       "test",
       "lorem"
     ],
-    "id": 13,
-    "slug": "lorem",
-    "date": "1970-01-01T00:00:00.000Z"
+    "slug": "lorem"
   }
 ]
