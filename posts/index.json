@@ -132,10 +132,12 @@
   {
     "_id": "545f3263cb6a97e44eca84c2",
     "title": "Hello World",
-    "date": "2014-05-14T21:00:00.000Z",
+    "date": "2014-05-20T18:00:00.000Z",
     "id": 1,
     "by": "IonicaBizau",
-    "tags": "news",
+    "tags": [
+      "news"
+    ],
     "slug": "hello-world"
   },
   {
