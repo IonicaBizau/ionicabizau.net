@@ -1,20 +1,23 @@
 [
-    {
-        "path": "/"
-      , "title": "Home"
-      , "slug": "home"
-      , "order": 10
-    }
-  , {
-        "path": "/faq"
-      , "title": "FAQ"
-      , "slug": "faq"
-      , "order": 30
-    }
-  , {
-        "path": "/contact"
-      , "title": "Contact"
-      , "slug": "contact"
-      , "order": 40
-    }
+  {
+    "path": "/",
+    "title": "Home",
+    "slug": "home",
+    "order": 10,
+    "_id": "545fa05734e54ddc544712fc"
+  },
+  {
+    "path": "/faq",
+    "title": "FAQ",
+    "slug": "faq",
+    "order": 30,
+    "_id": "545fa05734e54ddc544712fd"
+  },
+  {
+    "path": "/contact",
+    "title": "Contact",
+    "slug": "contact",
+    "order": 40,
+    "_id": "545fa05734e54ddc544712fe"
+  }
 ]
