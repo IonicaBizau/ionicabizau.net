@@ -9,7 +9,8 @@
       "Node.JS",
       "NPM",
       "Statique"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84b8"
   },
   {
     "title": "Creating a Twitter Bootstrap theme with Compass",
@@ -23,7 +24,8 @@
       "Theme",
       "SASS",
       "Compass"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84b9"
   },
   {
     "title": "regex-parser@1.0.0 is released",
@@ -35,7 +37,8 @@
       "Node.JS",
       "regex",
       "npm"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84ba"
   },
   {
     "title": "Switzerland, GitHub and Octocats",
@@ -46,7 +49,8 @@
     "tags": [
       "github",
       "news"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84bb"
   },
   {
     "title": "Introducing MiniLightbox",
@@ -58,7 +62,8 @@
       "New Features",
       "JavaScript",
       "CSS"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84bc"
   },
   {
     "title": "«Le Table» - Create ASCII tables with Node.JS",
@@ -71,7 +76,8 @@
       "NPM",
       "NodeJS",
       "table"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84bd"
   },
   {
     "title": "Generate ASCII boxes with NodeJS",
@@ -83,7 +89,8 @@
       "ASCII",
       "NodeJS",
       "NPM"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84be"
   },
   {
     "title": "First post from UI",
@@ -95,7 +102,8 @@
       "news",
       "bloggify",
       "user interface"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84bf"
   },
   {
     "title": "We've Got a Name",
@@ -106,7 +114,8 @@
     "tags": [
       "news",
       "bloggify"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84c0"
   },
   {
     "title": "Testing Code Highlight",
@@ -117,7 +126,8 @@
     "tags": [
       "features",
       "code"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84c1"
   },
   {
     "title": "Hello World",
@@ -127,7 +137,8 @@
     "id": 1,
     "tags": [
       "news"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84c2"
   },
   {
     "title": "Tweak your terminal with flat colors",
@@ -139,6 +150,7 @@
       "terminal",
       "design",
       "flat colors"
-    ]
+    ],
+    "_id": "545f3263cb6a97e44eca84c3"
   }
 ]
