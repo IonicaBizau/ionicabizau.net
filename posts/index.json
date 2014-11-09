@@ -1,156 +1,156 @@
 [
-  {
-    "title": "Statique@1.0.0 is released",
-    "slug": "statique-1-0-0-is-released",
-    "date": "21-10-2014",
-    "by": "Ionică Bizău",
-    "id": 12,
-    "tags": [
-      "Node.JS",
-      "NPM",
-      "Statique"
-    ],
-    "_id": "544668c8404f864f661cfdea"
-  },
-  {
-    "title": "Creating a Twitter Bootstrap theme with Compass",
-    "slug": "creating-twitter-bootstrap-theme-with-compass",
-    "date": "15-10-2014",
-    "by": "Ionică Bizău",
-    "id": 11,
-    "tags": [
-      "Twitter",
-      "Bootstrap",
-      "Theme",
-      "SASS",
-      "Compass"
-    ],
-    "_id": "543ec42e0f04a2ea5c56e6e1"
-  },
-  {
-    "title": "regex-parser@1.0.0 is released",
-    "slug": "regex-parser-1-0-0-is-released",
-    "date": "29-09-2014",
-    "by": "Ionică Bizău",
-    "id": 10,
-    "tags": [
-      "Node.JS",
-      "regex",
-      "npm"
-    ],
-    "_id": "543ec42e0f04a2ea5c56e6e2"
-  },
-  {
-    "title": "Switzerland, GitHub and Octocats",
-    "slug": "switzerland-github-and-octocats",
-    "date": "03-09-2014",
-    "by": "Ionică Bizău",
-    "id": 9,
-    "tags": [
-      "github",
-      "news"
-    ],
-    "_id": "540728896a0af4ad465dd805"
-  },
-  {
-    "title": "Introducing MiniLightbox",
-    "slug": "introducing-minilightbox",
-    "date": "28-08-2014",
-    "by": "Ionică Bizău",
-    "id": 8,
-    "tags": [
-      "New Features",
-      "JavaScript",
-      "CSS"
-    ],
-    "_id": "53ff6e39995b20aa5fc09233"
-  },
-  {
-    "title": "«Le Table» - Create ASCII tables with Node.JS",
-    "slug": "le-table-create-ascii-tables-with-node-js",
-    "date": "27-07-2014",
-    "by": "Ionică Bizău",
-    "id": 7,
-    "tags": [
-      "ASCII",
-      "NPM",
-      "NodeJS",
-      "table"
-    ],
-    "_id": "53ff52149b9bb723345d1cd4"
-  },
-  {
-    "title": "Generate ASCII boxes with NodeJS",
-    "slug": "generate-ascii-boxes-with-nodejs",
-    "date": "22-07-2014",
-    "by": "Ionică Bizău",
-    "id": 6,
-    "tags": [
-      "ASCII",
-      "NodeJS",
-      "NPM"
-    ],
-    "_id": "53ff52149b9bb723345d1cd5"
-  },
-  {
-    "title": "First post from UI",
-    "slug": "first-post-from-ui",
-    "date": "25-06-2014 22:00",
-    "by": "Ionică Bizău",
-    "id": 4,
-    "tags": [
-      "news",
-      "bloggify",
-      "user interface"
-    ],
-    "_id": "53c574e48988b5aa4a9e847f"
-  },
-  {
-    "title": "We've Got a Name",
-    "slug": "we-ve-got-a-name",
-    "date": "25-06-2014 20:00",
-    "by": "Ionică Bizău",
-    "id": 3,
-    "tags": [
-      "news",
-      "bloggify"
-    ],
-    "_id": "53c574e48988b5aa4a9e8480"
-  },
-  {
-    "title": "Testing Code Highlight",
-    "slug": "testing-code-highlight",
-    "date": "18-05-2014",
-    "by": "Ionică Bizău",
-    "id": 2,
-    "tags": [
-      "features",
-      "code"
-    ],
-    "_id": "53c574e48988b5aa4a9e8481"
-  },
-  {
-    "title": "Hello World",
-    "slug": "hello-world",
-    "date": "15-05-2014",
-    "by": "Ionică Bizău",
-    "id": 1,
-    "tags": [
-      "news"
-    ],
-    "_id": "53c574e48988b5aa4a9e8482"
-  },
-  {
-    "title": "Tweak your terminal with flat colors",
-    "slug": "tweak-your-terminal-with-flat-colors",
-    "date": "17-07-2014",
-    "by": "Ionică Bizău",
-    "id": 5,
-    "tags": [
-      "terminal",
-      "design",
-      "flat colors"
-    ],
-    "_id": "53c798b3d6b05c541c1da1fb"
-  }
+    {
+        "title": "Statique@1.0.0 is released",
+        "slug": "statique-1-0-0-is-released",
+        "date": "2014-10-21 00:00",
+        "by": "Ionică Bizău",
+        "id": 12,
+        "tags": [
+            "Node.JS",
+            "NPM",
+            "Statique"
+        ],
+        "_id": "544668c8404f864f661cfdea"
+    },
+    {
+        "title": "Creating a Twitter Bootstrap theme with Compass",
+        "slug": "creating-twitter-bootstrap-theme-with-compass",
+        "date": "2014-10-15 00:00",
+        "by": "Ionică Bizău",
+        "id": 11,
+        "tags": [
+            "Twitter",
+            "Bootstrap",
+            "Theme",
+            "SASS",
+            "Compass"
+        ],
+        "_id": "543ec42e0f04a2ea5c56e6e1"
+    },
+    {
+        "title": "regex-parser@1.0.0 is released",
+        "slug": "regex-parser-1-0-0-is-released",
+        "date": "2014-09-29 00:00",
+        "by": "Ionică Bizău",
+        "id": 10,
+        "tags": [
+            "Node.JS",
+            "regex",
+            "npm"
+        ],
+        "_id": "543ec42e0f04a2ea5c56e6e2"
+    },
+    {
+        "title": "Switzerland, GitHub and Octocats",
+        "slug": "switzerland-github-and-octocats",
+        "date": "2014-09-03 00:00",
+        "by": "Ionică Bizău",
+        "id": 9,
+        "tags": [
+            "github",
+            "news"
+        ],
+        "_id": "540728896a0af4ad465dd805"
+    },
+    {
+        "title": "Introducing MiniLightbox",
+        "slug": "introducing-minilightbox",
+        "date": "2014-08-28 00:00",
+        "by": "Ionică Bizău",
+        "id": 8,
+        "tags": [
+            "New Features",
+            "JavaScript",
+            "CSS"
+        ],
+        "_id": "53ff6e39995b20aa5fc09233"
+    },
+    {
+        "title": "«Le Table» - Create ASCII tables with Node.JS",
+        "slug": "le-table-create-ascii-tables-with-node-js",
+        "date": "2014-07-27 00:00",
+        "by": "Ionică Bizău",
+        "id": 7,
+        "tags": [
+            "ASCII",
+            "NPM",
+            "NodeJS",
+            "table"
+        ],
+        "_id": "53ff52149b9bb723345d1cd4"
+    },
+    {
+        "title": "Generate ASCII boxes with NodeJS",
+        "slug": "generate-ascii-boxes-with-nodejs",
+        "date": "2014-07-22 00:00",
+        "by": "Ionică Bizău",
+        "id": 6,
+        "tags": [
+            "ASCII",
+            "NodeJS",
+            "NPM"
+        ],
+        "_id": "53ff52149b9bb723345d1cd5"
+    },
+    {
+        "title": "First post from UI",
+        "slug": "first-post-from-ui",
+        "date": "2014-06-25 00:00",
+        "by": "Ionică Bizău",
+        "id": 4,
+        "tags": [
+            "news",
+            "bloggify",
+            "user interface"
+        ],
+        "_id": "53c574e48988b5aa4a9e847f"
+    },
+    {
+        "title": "We've Got a Name",
+        "slug": "we-ve-got-a-name",
+        "date": "2014-06-25 00:00",
+        "by": "Ionică Bizău",
+        "id": 3,
+        "tags": [
+            "news",
+            "bloggify"
+        ],
+        "_id": "53c574e48988b5aa4a9e8480"
+    },
+    {
+        "title": "Testing Code Highlight",
+        "slug": "testing-code-highlight",
+        "date": "2014-05-18 00:00",
+        "by": "Ionică Bizău",
+        "id": 2,
+        "tags": [
+            "features",
+            "code"
+        ],
+        "_id": "53c574e48988b5aa4a9e8481"
+    },
+    {
+        "title": "Hello World",
+        "slug": "hello-world",
+        "date": "2014-05-15 00:00",
+        "by": "Ionică Bizău",
+        "id": 1,
+        "tags": [
+            "news"
+        ],
+        "_id": "53c574e48988b5aa4a9e8482"
+    },
+    {
+        "title": "Tweak your terminal with flat colors",
+        "slug": "tweak-your-terminal-with-flat-colors",
+        "date": "2014-07-17 00:00",
+        "by": "Ionică Bizău",
+        "id": 5,
+        "tags": [
+            "terminal",
+            "design",
+            "flat colors"
+        ],
+        "_id": "53c798b3d6b05c541c1da1fb"
+    }
 ]
