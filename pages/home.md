@@ -1,7 +1,6 @@
 Hi. My name is Ionică Bizău. I am a 19 (still counting!) year old student, web
 developer and piano player from Romania.
 
-
 I started studying computer science five years ago, starting with little C++
 algorithms and continuing with Microsoft technologies (C#, WPF, Windows Forms).
 2012 was the year when I switched from Windows to Linux, entering the open
