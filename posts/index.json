@@ -152,5 +152,17 @@
       "flat colors"
     ],
     "_id": "545f3263cb6a97e44eca84c3"
+  },
+  {
+    "_id": "545f71854c0c9f73094796cc",
+    "title": "Lorem",
+    "by": "IonicaBizau",
+    "tags": [
+      "test",
+      "lorem"
+    ],
+    "id": 13,
+    "slug": "lorem",
+    "date": "1970-01-01T00:00:00.000Z"
   }
 ]
