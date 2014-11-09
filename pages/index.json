@@ -14,10 +14,10 @@
     "_id": "545fa05734e54ddc544712fd"
   },
   {
-    "path": "/contact",
+    "_id": "545fa05734e54ddc544712fe",
     "title": "Contact",
+    "path": "/contact",
     "slug": "contact",
-    "order": 40,
-    "_id": "545fa05734e54ddc544712fe"
+    "order": 40
   }
 ]
