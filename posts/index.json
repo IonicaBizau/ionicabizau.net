@@ -1,21 +1,21 @@
 [
   {
-    "_id": "545f3263cb6a97e44eca84b8",
     "title": "Statique@1.0.0 is released",
-    "date": "2014-10-20T21:00:00.000Z",
-    "id": 12,
+    "slug": "statique-1-0-0-is-released",
+    "date": "2014-10-21 00:00",
     "by": "Ionică Bizău",
+    "id": 12,
     "tags": [
       "Node.JS",
       "NPM",
       "Statique"
     ],
-    "slug": "statique-1-0-0-is-released"
+    "_id": "544668c8404f864f661cfdea"
   },
   {
     "title": "Creating a Twitter Bootstrap theme with Compass",
     "slug": "creating-twitter-bootstrap-theme-with-compass",
-    "date": "15-10-2014",
+    "date": "2014-10-15 00:00",
     "by": "Ionică Bizău",
     "id": 11,
     "tags": [
@@ -25,12 +25,12 @@
       "SASS",
       "Compass"
     ],
-    "_id": "545f3263cb6a97e44eca84b9"
+    "_id": "543ec42e0f04a2ea5c56e6e1"
   },
   {
     "title": "regex-parser@1.0.0 is released",
     "slug": "regex-parser-1-0-0-is-released",
-    "date": "29-09-2014",
+    "date": "2014-09-29 00:00",
     "by": "Ionică Bizău",
     "id": 10,
     "tags": [
@@ -38,24 +38,24 @@
       "regex",
       "npm"
     ],
-    "_id": "545f3263cb6a97e44eca84ba"
+    "_id": "543ec42e0f04a2ea5c56e6e2"
   },
   {
     "title": "Switzerland, GitHub and Octocats",
     "slug": "switzerland-github-and-octocats",
-    "date": "03-09-2014",
+    "date": "2014-09-03 00:00",
     "by": "Ionică Bizău",
     "id": 9,
     "tags": [
       "github",
       "news"
     ],
-    "_id": "545f3263cb6a97e44eca84bb"
+    "_id": "540728896a0af4ad465dd805"
   },
   {
     "title": "Introducing MiniLightbox",
     "slug": "introducing-minilightbox",
-    "date": "28-08-2014",
+    "date": "2014-08-28 00:00",
     "by": "Ionică Bizău",
     "id": 8,
     "tags": [
@@ -63,12 +63,12 @@
       "JavaScript",
       "CSS"
     ],
-    "_id": "545f3263cb6a97e44eca84bc"
+    "_id": "53ff6e39995b20aa5fc09233"
   },
   {
     "title": "«Le Table» - Create ASCII tables with Node.JS",
     "slug": "le-table-create-ascii-tables-with-node-js",
-    "date": "27-07-2014",
+    "date": "2014-07-27 00:00",
     "by": "Ionică Bizău",
     "id": 7,
     "tags": [
@@ -77,12 +77,12 @@
       "NodeJS",
       "table"
     ],
-    "_id": "545f3263cb6a97e44eca84bd"
+    "_id": "53ff52149b9bb723345d1cd4"
   },
   {
     "title": "Generate ASCII boxes with NodeJS",
     "slug": "generate-ascii-boxes-with-nodejs",
-    "date": "22-07-2014",
+    "date": "2014-07-22 00:00",
     "by": "Ionică Bizău",
     "id": 6,
     "tags": [
@@ -90,12 +90,12 @@
       "NodeJS",
       "NPM"
     ],
-    "_id": "545f3263cb6a97e44eca84be"
+    "_id": "53ff52149b9bb723345d1cd5"
   },
   {
     "title": "First post from UI",
     "slug": "first-post-from-ui",
-    "date": "25-06-2014 22:00",
+    "date": "2014-06-25 00:00",
     "by": "Ionică Bizău",
     "id": 4,
     "tags": [
@@ -103,47 +103,47 @@
       "bloggify",
       "user interface"
     ],
-    "_id": "545f3263cb6a97e44eca84bf"
+    "_id": "53c574e48988b5aa4a9e847f"
   },
   {
     "title": "We've Got a Name",
     "slug": "we-ve-got-a-name",
-    "date": "25-06-2014 20:00",
+    "date": "2014-06-25 00:00",
     "by": "Ionică Bizău",
     "id": 3,
     "tags": [
       "news",
       "bloggify"
     ],
-    "_id": "545f3263cb6a97e44eca84c0"
+    "_id": "53c574e48988b5aa4a9e8480"
   },
   {
     "title": "Testing Code Highlight",
     "slug": "testing-code-highlight",
-    "date": "18-05-2014",
+    "date": "2014-05-18 00:00",
     "by": "Ionică Bizău",
     "id": 2,
     "tags": [
       "features",
       "code"
     ],
-    "_id": "545f3263cb6a97e44eca84c1"
+    "_id": "53c574e48988b5aa4a9e8481"
   },
   {
-    "_id": "545f3263cb6a97e44eca84c2",
     "title": "Hello World",
-    "date": "2014-05-20T18:00:00.000Z",
-    "id": 1,
+    "slug": "hello-world",
+    "date": "2014-05-15 00:00",
     "by": "Ionică Bizău",
+    "id": 1,
     "tags": [
       "news"
     ],
-    "slug": "hello-world"
+    "_id": "53c574e48988b5aa4a9e8482"
   },
   {
     "title": "Tweak your terminal with flat colors",
     "slug": "tweak-your-terminal-with-flat-colors",
-    "date": "17-07-2014",
+    "date": "2014-07-17 00:00",
     "by": "Ionică Bizău",
     "id": 5,
     "tags": [
@@ -151,29 +151,6 @@
       "design",
       "flat colors"
     ],
-    "_id": "545f3263cb6a97e44eca84c3"
-  },
-  {
-    "_id": "545f71854c0c9f73094796cc",
-    "title": "Lorem",
-    "date": "2001-01-18T22:00:00.000Z",
-    "id": 13,
-    "by": "Ionică Bizău",
-    "tags": [
-      "test",
-      "lorem"
-    ],
-    "slug": "lorem"
-  },
-  {
-    "_id": "545f73834c0c9f73094796cd",
-    "title": "Ipsum",
-    "by": "Ionică Bizău",
-    "tags": [
-      "asd"
-    ],
-    "id": 14,
-    "slug": "ipsum",
-    "date": "2014-11-09T14:00:35.640Z"
+    "_id": "53c798b3d6b05c541c1da1fb"
   }
 ]
