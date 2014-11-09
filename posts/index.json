@@ -28,17 +28,17 @@
     "_id": "543ec42e0f04a2ea5c56e6e1"
   },
   {
+    "_id": "543ec42e0f04a2ea5c56e6e2",
     "title": "regex-parser@1.0.0 is released",
-    "slug": "regex-parser-1-0-0-is-released",
-    "date": "2014-09-29 00:00",
-    "by": "Ionică Bizău",
+    "date": "2014-09-29T00:00:00.000Z",
     "id": 10,
+    "by": "Ghiță Bizău",
     "tags": [
       "Node.JS",
       "regex",
       "npm"
     ],
-    "_id": "543ec42e0f04a2ea5c56e6e2"
+    "slug": "regex-parser-1-0-0-is-released"
   },
   {
     "title": "Switzerland, GitHub and Octocats",
