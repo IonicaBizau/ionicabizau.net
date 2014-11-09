@@ -130,15 +130,15 @@
     "_id": "53c574e48988b5aa4a9e8481"
   },
   {
+    "_id": "53c574e48988b5aa4a9e8482",
     "title": "Hello World",
-    "slug": "hello-world",
-    "date": "2014-05-15 00:00",
-    "by": "Ionică Bizău",
+    "date": "2014-05-14T21:00:00.000Z",
     "id": 1,
+    "by": "IonicaBizau",
     "tags": [
       "news"
     ],
-    "_id": "53c574e48988b5aa4a9e8482"
+    "slug": "hello-world"
   },
   {
     "title": "Tweak your terminal with flat colors",
