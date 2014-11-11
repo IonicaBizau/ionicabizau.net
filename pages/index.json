@@ -19,12 +19,5 @@
     "path": "/contact",
     "slug": "contact",
     "order": 40
-  },
-  {
-    "_id": "545fabd232ed1eeb447bf534",
-    "title": "sdf",
-    "path": "sdfsdfsdf",
-    "slug": "sdfsdf",
-    "order": 57
   }
 ]
