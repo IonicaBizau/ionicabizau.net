@@ -163,17 +163,5 @@
     "id": 13,
     "slug": "asdasd",
     "date": "2014-11-09T17:59:44.036Z"
-  },
-  {
-    "_id": "5460d2df32ed1eeb447bf535",
-    "title": "Test post",
-    "date": "2014-11-10T14:59:43.000Z",
-    "id": 14,
-    "by": "Ionică Bizău",
-    "tags": [
-      "something",
-      "cool"
-    ],
-    "slug": "test-post"
   }
 ]
