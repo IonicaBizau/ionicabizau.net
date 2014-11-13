@@ -14,7 +14,7 @@
   },
   {
     "_id": "543ec42e0f04a2ea5c56e6e1",
-    "title": "Creating a Twitter Bootstrap theme with Compass -- test",
+    "title": "Creating a Twitter Bootstrap theme with Compass",
     "date": "2014-10-14T21:00:00.000Z",
     "id": 11,
     "by": "Ionică Bizău",
@@ -25,7 +25,7 @@
       "SASS",
       "Compass"
     ],
-    "slug": "creating-a-twitter-bootstrap-theme-with-compass----test"
+    "slug": "creating-a-twitter-bootstrap-theme-with-compass"
   },
   {
     "_id": "543ec42e0f04a2ea5c56e6e2",
