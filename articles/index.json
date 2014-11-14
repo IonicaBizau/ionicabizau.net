@@ -1,18 +1,5 @@
 [
   {
-    "_id": "544668c8404f864f661cfdea",
-    "title": "Statique@1.0.0 is released",
-    "date": "2014-10-20T21:00:00.000Z",
-    "id": 12,
-    "by": "Ionică Bizău",
-    "tags": [
-      "Node.JS",
-      "NPM",
-      "Statique"
-    ],
-    "slug": "statique-1-0-0-is-released"
-  },
-  {
     "_id": "543ec42e0f04a2ea5c56e6e1",
     "title": "Creating a Twitter Bootstrap theme with Compass",
     "date": "2014-10-14T21:00:00.000Z",
