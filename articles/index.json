@@ -1,16 +1,17 @@
 [
   {
+    "_id": "544668c8404f864f661cfdea",
     "title": "Statique@1.0.0 is released",
-    "slug": "statique-1-0-0-is-released",
-    "date": "2014-10-21 00:00",
-    "by": "Ionică Bizău",
+    "date": "2014-10-20T21:00:00.000Z",
     "id": 12,
+    "by": "Ionică Bizău",
     "tags": [
       "Node.JS",
       "NPM",
-      "Statique"
+      "Statique",
+      "test-tag"
     ],
-    "_id": "544668c8404f864f661cfdea"
+    "slug": "statique-1-0-0-is-released"
   },
   {
     "_id": "543ec42e0f04a2ea5c56e6e1",
