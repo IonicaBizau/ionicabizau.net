@@ -99,5 +99,17 @@
       "flat colors"
     ],
     "_id": "53c798b3d6b05c541c1da1fb"
+  },
+  {
+    "_id": "5465ae419a985dc02182f819",
+    "title": "New post",
+    "by": "Ionică Bizău",
+    "tags": [
+      "new",
+      "post"
+    ],
+    "id": 9,
+    "slug": "new-post",
+    "date": "2014-11-14T07:24:49.914Z"
   }
 ]
