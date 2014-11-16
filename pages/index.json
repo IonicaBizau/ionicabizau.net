@@ -3,18 +3,15 @@
     "path": "/",
     "title": "Home",
     "slug": "home",
-    "order": 10,
-    "_id": "545fa05734e54ddc544712fc"
+    "order": 10
   },
   {
-    "_id": "545fa05734e54ddc544712fd",
     "title": "FAQ",
     "path": "/faq",
     "slug": "faq",
     "order": 30
   },
   {
-    "_id": "545fa05734e54ddc544712fe",
     "title": "Contact",
     "path": "/contact",
     "slug": "contact",

@@ -9,8 +9,7 @@
       "New Features",
       "JavaScript",
       "CSS"
-    ],
-    "_id": "53ff6e39995b20aa5fc09233"
+    ]
   },
   {
     "title": "«Le Table» - Create ASCII tables with Node.JS",
@@ -23,8 +22,7 @@
       "NPM",
       "NodeJS",
       "table"
-    ],
-    "_id": "53ff52149b9bb723345d1cd4"
+    ]
   },
   {
     "title": "Generate ASCII boxes with NodeJS",
@@ -36,8 +34,7 @@
       "ASCII",
       "NodeJS",
       "NPM"
-    ],
-    "_id": "53ff52149b9bb723345d1cd5"
+    ]
   },
   {
     "title": "First post from UI",
@@ -49,8 +46,7 @@
       "news",
       "bloggify",
       "user interface"
-    ],
-    "_id": "53c574e48988b5aa4a9e847f"
+    ]
   },
   {
     "title": "We've Got a Name",
@@ -61,8 +57,7 @@
     "tags": [
       "news",
       "bloggify"
-    ],
-    "_id": "53c574e48988b5aa4a9e8480"
+    ]
   },
   {
     "title": "Testing Code Highlight",
@@ -73,11 +68,9 @@
     "tags": [
       "features",
       "code"
-    ],
-    "_id": "53c574e48988b5aa4a9e8481"
+    ]
   },
   {
-    "_id": "53c574e48988b5aa4a9e8482",
     "title": "Hello World",
     "date": "2014-05-14T21:00:00.000Z",
     "id": 1,
@@ -97,7 +90,6 @@
       "terminal",
       "design",
       "flat colors"
-    ],
-    "_id": "53c798b3d6b05c541c1da1fb"
+    ]
   }
 ]
