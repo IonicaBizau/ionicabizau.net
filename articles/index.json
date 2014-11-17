@@ -62,15 +62,16 @@
   },
   {
     "title": "Introducing MiniLightbox",
-    "slug": "introducing-minilightbox",
     "date": "2014-08-27T21:00:00.000Z",
-    "by": "Ionică Bizău",
     "id": 8,
+    "by": "Ionică Bizău",
     "tags": [
-      "New Features",
+      "New",
+      "Features",
       "JavaScript",
       "CSS"
-    ]
+    ],
+    "slug": "introducing-minilightbox"
   },
   {
     "title": "«Le Table» - Create ASCII tables with Node.JS",
