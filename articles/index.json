@@ -1,8 +1,69 @@
 [
   {
+    "title": "Introducing Blah Command Line Tool",
+    "slug": "introducing-blah-command-line-tool",
+    "date": "2014-11-12T22:00:00.000Z",
+    "by": "Ionică Bizău",
+    "id": 13,
+    "tags": [
+      "NodeJS",
+      "NPM",
+      "GitHub"
+    ]
+  },
+  {
+    "title": "Statique@1.0.0 is released",
+    "slug": "statique-1-0-0-is-released",
+    "date": "2014-10-20T21:00:00.000Z",
+    "by": "Ionică Bizău",
+    "id": 12,
+    "tags": [
+      "Node.JS",
+      "NPM",
+      "Statique"
+    ]
+  },
+  {
+    "title": "Creating a Twitter Bootstrap theme with Compass",
+    "slug": "creating-twitter-bootstrap-theme-with-compass",
+    "date": "2014-10-14T21:00:00.000Z",
+    "by": "Ionică Bizău",
+    "id": 11,
+    "tags": [
+      "Twitter",
+      "Bootstrap",
+      "Theme",
+      "SASS",
+      "Compass"
+    ]
+  },
+  {
+    "title": "regex-parser@1.0.0 is released",
+    "slug": "regex-parser-1-0-0-is-released",
+    "date": "2014-09-28T21:00:00.000Z",
+    "by": "Ionică Bizău",
+    "id": 10,
+    "tags": [
+      "Node.JS",
+      "regex",
+      "npm"
+    ]
+  },
+  {
+    "title": "Switzerland, GitHub and Octocats",
+    "slug": "switzerland-github-and-octocats",
+    "date": "2014-09-02T21:00:00.000Z",
+    "by": "Ionică Bizău",
+    "id": 9,
+    "tags": [
+      "github",
+      "news"
+    ]
+  },
+  {
     "title": "Introducing MiniLightbox",
     "slug": "introducing-minilightbox",
-    "date": "2014-08-28 00:00",
+    "date": "2014-08-27T21:00:00.000Z",
     "by": "Ionică Bizău",
     "id": 8,
     "tags": [
@@ -13,21 +74,21 @@
   },
   {
     "title": "«Le Table» - Create ASCII tables with Node.JS",
+    "slug": "le-table-create-ascii-tables-with-node-js",
     "date": "2014-07-26T21:00:00.000Z",
-    "id": 7,
     "by": "Ionică Bizău",
+    "id": 7,
     "tags": [
       "ASCII",
       "NPM",
       "NodeJS",
       "table"
-    ],
-    "slug": "-le-table---create-ascii-tables-with-node-js"
+    ]
   },
   {
     "title": "Generate ASCII boxes with NodeJS",
     "slug": "generate-ascii-boxes-with-nodejs",
-    "date": "2014-07-22 00:00",
+    "date": "2014-07-21T21:00:00.000Z",
     "by": "Ionică Bizău",
     "id": 6,
     "tags": [
@@ -37,9 +98,21 @@
     ]
   },
   {
+    "title": "Tweak your terminal with flat colors",
+    "slug": "tweak-your-terminal-with-flat-colors",
+    "date": "2014-07-16T21:00:00.000Z",
+    "by": "Ionică Bizău",
+    "id": 5,
+    "tags": [
+      "terminal",
+      "design",
+      "flat colors"
+    ]
+  },
+  {
     "title": "First post from UI",
     "slug": "first-post-from-ui",
-    "date": "2014-06-25 00:00",
+    "date": "2014-06-24T21:00:00.000Z",
     "by": "Ionică Bizău",
     "id": 4,
     "tags": [
@@ -51,7 +124,7 @@
   {
     "title": "We've Got a Name",
     "slug": "we-ve-got-a-name",
-    "date": "2014-06-25 00:00",
+    "date": "2014-06-24T21:00:00.000Z",
     "by": "Ionică Bizău",
     "id": 3,
     "tags": [
@@ -62,7 +135,7 @@
   {
     "title": "Testing Code Highlight",
     "slug": "testing-code-highlight",
-    "date": "2014-05-18 00:00",
+    "date": "2014-05-17T21:00:00.000Z",
     "by": "Ionică Bizău",
     "id": 2,
     "tags": [
@@ -72,24 +145,12 @@
   },
   {
     "title": "Hello World",
+    "slug": "hello-world",
     "date": "2014-05-14T21:00:00.000Z",
+    "by": "Ionică Bizău",
     "id": 1,
-    "by": "IonicaBizau",
     "tags": [
       "news"
-    ],
-    "slug": "hello-world"
-  },
-  {
-    "title": "Tweak your terminal with flat colors",
-    "slug": "tweak-your-terminal-with-flat-colors",
-    "date": "2014-07-17 00:00",
-    "by": "Ionică Bizău",
-    "id": 5,
-    "tags": [
-      "terminal",
-      "design",
-      "flat colors"
     ]
   }
 ]
