@@ -168,14 +168,14 @@
   },
   {
     "title": "CLI GitHub - A fancy GitHub client for command line",
+    "date": "2014-11-24T08:56:59.000Z",
+    "id": 15,
     "by": "Ionică Bizău",
     "tags": [
       "GitHub",
       "CLI",
       "NodeJS"
     ],
-    "id": 15,
-    "slug": "cli-github---a-fancy-github-client-for-command-line",
-    "date": "2014-11-24T08:56:59.922Z"
+    "slug": "cli-github---a-fancy-github-client-for-command-line"
   }
 ]
