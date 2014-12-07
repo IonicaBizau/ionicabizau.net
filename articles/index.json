@@ -177,5 +177,16 @@
       "NodeJS"
     ],
     "slug": "cli-github-a-fancy-github-client-for-command-line"
+  },
+  {
+    "title": "Using NodeJS to convert images into ASCII art ",
+    "by": "Ionică Bizău",
+    "tags": [
+      "ASCII",
+      "NodeJS"
+    ],
+    "id": 16,
+    "slug": "using-nodejs-to-convert-images-into-ascii-art-",
+    "date": "2014-12-07T11:22:26.938Z"
   }
 ]
