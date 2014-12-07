@@ -7,8 +7,8 @@
   },
   {
     "title": "FAQ",
-    "slug": "faq",
     "path": "/faq",
+    "slug": "faq",
     "order": 30
   },
   {

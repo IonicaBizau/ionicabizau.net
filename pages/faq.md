@@ -1,6 +1,6 @@
 ## What operating system are you using?
 Synce the end of 2012, I use Linux distributions. In present, I'm using Ubuntu
-14.04 with Unity desktop that fits perfeclty with my needs.
+14.10 with Unity desktop that fits perfeclty with my needs.
 
 [ElementaryOS][1] is another Linux distribution (Ubuntu based) that I like and
 used in the past.
