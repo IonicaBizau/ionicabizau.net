@@ -180,13 +180,13 @@
   },
   {
     "title": "Using NodeJS to convert images into ASCII art ",
+    "date": "2014-12-07T11:22:26.000Z",
+    "id": 16,
     "by": "Ionică Bizău",
     "tags": [
       "ASCII",
       "NodeJS"
     ],
-    "id": 16,
-    "slug": "using-nodejs-to-convert-images-into-ascii-art-",
-    "date": "2014-12-07T11:22:26.938Z"
+    "slug": "using-nodejs-to-convert-images-into-ascii-art-"
   }
 ]
