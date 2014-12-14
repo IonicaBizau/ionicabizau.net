@@ -1,6 +1,6 @@
 [
   {
-    "title": "Introducing Blah Command Line Tool",
+    "title": "Introducing the Blah Command Line Tool",
     "slug": "introducing-blah-command-line-tool",
     "date": "2014-11-12T22:00:00.000Z",
     "by": "Ionică Bizău",
@@ -74,7 +74,7 @@
     "slug": "introducing-minilightbox"
   },
   {
-    "title": "«Le Table» - Create ASCII tables with Node.JS",
+    "title": "\"Le Table\" - Create ASCII tables with Node.JS",
     "slug": "le-table-create-ascii-tables-with-node-js",
     "date": "2014-07-26T21:00:00.000Z",
     "by": "Ionică Bizău",
@@ -146,7 +146,7 @@
     ]
   },
   {
-    "title": "Testing Code Highlight",
+    "title": "Testing Code Highlighting",
     "slug": "testing-code-highlight",
     "date": "2014-05-17T21:00:00.000Z",
     "by": "Ionică Bizău",
@@ -167,7 +167,7 @@
     ]
   },
   {
-    "title": "CLI GitHub - A fancy GitHub client for command line",
+    "title": "CLI GitHub - A fancy GitHub client for the command line",
     "date": "2014-11-24T08:56:59.000Z",
     "id": 15,
     "by": "Ionică Bizău",
