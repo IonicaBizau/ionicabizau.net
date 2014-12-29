@@ -200,5 +200,17 @@
     "id": 17,
     "slug": "isrespo-test-your-website-responsiveness",
     "date": "2014-12-27T17:09:06.368Z"
+  },
+  {
+    "title": "Develop desktop applications using web technologies",
+    "by": "Ionică Bizău",
+    "tags": [
+      "desktop",
+      "web",
+      "JavaScript"
+    ],
+    "id": 18,
+    "slug": "develop-desktop-applications-using-web-technologies",
+    "date": "2014-12-29T08:48:12.191Z"
   }
 ]
