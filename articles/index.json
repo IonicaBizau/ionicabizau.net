@@ -245,5 +245,17 @@
       "Bloggify"
     ],
     "slug": "we-re-getting-social"
+  },
+  {
+    "title": "Upload files using NodeJS",
+    "by": "Ionică Bizău",
+    "tags": [
+      "NodeJS",
+      "tutorial",
+      "uploads"
+    ],
+    "id": 22,
+    "slug": "upload-files-using-nodejs",
+    "date": "2015-03-18T10:55:33.875Z"
   }
 ]
