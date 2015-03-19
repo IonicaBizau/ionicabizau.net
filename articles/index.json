@@ -259,15 +259,15 @@
     "date": "2015-03-18T10:55:33.875Z"
   },
   {
-    "title": "Visualize your GitHub profile languages",
+    "title": "Visualize your GitHub projects languages",
+    "date": "2015-03-19T14:33:53.000Z",
+    "id": 23,
     "by": "Ionică Bizău",
     "tags": [
       "GitHub",
       "languages",
       "JavaScript"
     ],
-    "id": 23,
-    "slug": "visualize-your-github-profile-languages",
-    "date": "2015-03-19T14:33:53.290Z"
+    "slug": "visualize-your-github-projects-languages"
   }
 ]
