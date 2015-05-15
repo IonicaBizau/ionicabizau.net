@@ -269,5 +269,16 @@
       "JavaScript"
     ],
     "slug": "visualize-your-github-projects-languages"
+  },
+  {
+    "title": "Reserving packages on NPM",
+    "by": "Ionică Bizău",
+    "tags": [
+      "npm",
+      "NodeJS"
+    ],
+    "id": 24,
+    "slug": "reserving-packages-on-npm",
+    "date": "2015-05-15T07:05:09.448Z"
   }
 ]
