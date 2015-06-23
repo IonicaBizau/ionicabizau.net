@@ -280,5 +280,17 @@
       "NodeJS"
     ],
     "slug": "reserving-packages-on-npm"
+  },
+  {
+    "title": "Increasing productivity using Blah 2.0.0",
+    "by": "Ionică Bizău",
+    "tags": [
+      "NodeJS",
+      "productivity",
+      "protip"
+    ],
+    "id": 25,
+    "slug": "increasing-productivity-using-blah-2-0-0",
+    "date": "2015-06-23T18:00:54.404Z"
   }
 ]
