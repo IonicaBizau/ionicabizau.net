@@ -1,0 +1,95 @@
+{
+  "plugins": [
+    {
+      "name": "article-tags",
+      "source": "git@github.com:BloggifyPlugins/article-tags.git",
+      "version": "master"
+    },
+    {
+      "name": "contact-form",
+      "source": "git@github.com:BloggifyPlugins/contact-form.git",
+      "version": "master",
+      "config": {
+        "mandrill_key": "some mandrill key",
+        "contact_page": "/contact",
+        "contact": {
+            "email": "contact@ionicabizau.net",
+            "name": "Ionică Bizău"
+        }
+      }
+    },
+    {
+      "name": "_custom-client-files",
+      "source": "git@github.com:BloggifyPlugins/custom-client-files.git",
+      "version": "master"
+    },
+    {
+      "name": "_api",
+      "source": "git@github.com:IonicaBizau/api.git",
+      "version": "master"
+    },
+    {
+      "name": "_dashboard",
+      "source": "git@github.com:IonicaBizau/dashboard.git",
+      "version": "master",
+      "config": {
+        "users": [
+          {
+            "username": "my username",
+            "displayName": "Ionică Bizău",
+            "password": "some nice password"
+          }
+        ]
+      }
+    },
+    {
+      "name": "lightbox",
+      "source": "git@github.com:BloggifyPlugins/lightbox.git",
+      "version": "master"
+    },
+    {
+      "name": "rss",
+      "source": "git@github.com:Bloggify/rss.git",
+      "version": "master",
+      "config": {
+        "api": "_api",
+        "description": "WEB Developer, Linux Geek and Musician"
+      }
+    },
+    {
+      "name": "social",
+      "source": "git@github.com:Bloggify/social.git",
+      "version": "master"
+    },
+    {
+      "name": "resume",
+      "source": "git@bitbucket.com:Bloggify/resume.git",
+      "version": "master"
+    }
+  ],
+  "database": {
+    "uri": "mongodb://localhost:27017/bloggify"
+  },
+  "themeData": {
+      "analytics": {
+        "id": "ga id",
+        "url": "ionicabizau.net"
+      },
+      "social": {
+         "twitter": "IonicaBizau",
+         "youtube": "IonicaBizau",
+         "github": "IonicaBizau",
+         "bitbucket": "IonicaBizau"
+      }
+  },
+  "site": {
+    "title": "Ionică Bizău",
+    "gitUrl": "https://github.com/IonicaBizau/blog",
+    "description": "Web Developer, <i class=\"fa fa-linux\"></i> Linux geek and <i class=\"fa fa-music\"></i> Musician"
+  },
+  "port": 9000,
+  "logLevel": 4,
+  "options": {
+    "clientScripts": []
+  }
+}
