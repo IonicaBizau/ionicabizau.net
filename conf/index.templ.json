@@ -2,15 +2,15 @@
   "plugins": [
     {
       "name": "article-tags",
-      "source": "git@github.com:BloggifyPlugins/article-tags.git",
+      "source": "git@github.com:Bloggify/article-tags.git",
       "version": "master"
     },
     {
       "name": "contact-form",
-      "source": "git@github.com:BloggifyPlugins/contact-form.git",
+      "source": "git@github.com:Bloggify/contact-form.git",
       "version": "master",
       "config": {
-        "mandrill_key": "some mandrill key",
+        "mandrill_key": "6h..............ag",
         "contact_page": "/contact",
         "contact": {
             "email": "contact@ionicabizau.net",
@@ -20,7 +20,7 @@
     },
     {
       "name": "_custom-client-files",
-      "source": "git@github.com:BloggifyPlugins/custom-client-files.git",
+      "source": "git@github.com:Bloggify/custom-client-files.git",
       "version": "master"
     },
     {
@@ -35,7 +35,7 @@
       "config": {
         "users": [
           {
-            "username": "my username",
+            "username": "IonicaBizau",
             "displayName": "Ionică Bizău",
             "password": "some nice password"
           }
@@ -44,7 +44,7 @@
     },
     {
       "name": "lightbox",
-      "source": "git@github.com:BloggifyPlugins/lightbox.git",
+      "source": "git@github.com:Bloggify/lightbox.git",
       "version": "master"
     },
     {
@@ -72,7 +72,7 @@
   },
   "themeData": {
       "analytics": {
-        "id": "ga id",
+        "id": "UA..........",
         "url": "ionicabizau.net"
       },
       "social": {
