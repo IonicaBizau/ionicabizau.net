@@ -196,15 +196,15 @@
   },
   {
     "title": "Uploading videos to YouTube using NodeJS",
+    "date": "2015-07-09T11:32:52.000Z",
+    "id": 26,
     "by": "Ionică Bizău",
     "tags": [
       "NodeJS",
       "YouTube",
       "Tutorial"
     ],
-    "id": 26,
-    "slug": "uploading-videos-to-youtube-using-nodejs",
-    "date": "2015-07-09T11:32:52.821Z"
+    "slug": "uploading-videos-to-youtube-using-nodejs"
   },
   {
     "title": "Develop desktop applications using web technologies",
