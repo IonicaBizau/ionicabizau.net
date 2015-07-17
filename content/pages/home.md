@@ -17,18 +17,16 @@ source projects. I love JavaScript. It's easy and powerful; just perfect for me.
 Also, I sometimes write small bash scripts designed to optimize my work.
 
 I am a [StackOverflow user][3], being in [19th position amongst Romanian users][4].
-You can check out [my profile by clicking here][5].
 
-You can find my music videos on [my YouTube channel][6].
+You can find my music videos on [my YouTube channel][5].
 
-If you want to contact me, just [write me a message][7] and I will reply quickly.
-If you just want to say *"Hi"*, that's cool too. <i class="fa fa-smile-o"></i>
+If you want to contact me, just [write me a message][6] and I will reply quickly.
+If you just want to say *"Hi"*, that's cool too. :smile:
 
 
   [1]: http://jillix.com/
   [2]: https://github.com/IonicaBizau
-  [3]: http://en.wikipedia.org/wiki/Stack_Overflow
+  [3]: http://stackoverflow.com/users/1420197/ionica-bizau
   [4]: http://data.stackexchange.com/stackoverflow/query/201379/my-position-from-romanian-users
-  [5]: http://stackoverflow.com/users/1420197/ionica-bizau
-  [6]: https://www.youtube.com/user/IonicaBizau
-  [7]: /contact
+  [5]: https://www.youtube.com/user/IonicaBizau
+  [6]: /contact
