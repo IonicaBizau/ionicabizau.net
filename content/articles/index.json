@@ -234,16 +234,16 @@
     "date": "2014-12-27T17:09:06.368Z"
   },
   {
-    "title": "Uploading videos to YouTube using NodeJS",
-    "date": "2015-07-09T11:32:52.000Z",
-    "id": 26,
+    "title": "7 of My Favorite Bible passages",
     "by": "Ionică Bizău",
     "tags": [
-      "NodeJS",
-      "YouTube",
-      "Tutorial"
+      "Bible",
+      "beliefs",
+      "favorite"
     ],
-    "slug": "uploading-videos-to-youtube-using-nodejs"
+    "id": 26,
+    "slug": "7-of-my-favorite-bible-passages",
+    "date": "2015-09-29T11:57:22.733Z"
   },
   {
     "title": "Using NodeJS to convert images into ASCII art",
