@@ -235,15 +235,15 @@
   },
   {
     "title": "7 of My Favorite Bible passages",
+    "date": "2015-09-29T11:57:22.000Z",
+    "id": 26,
     "by": "Ionică Bizău",
     "tags": [
       "Bible",
       "beliefs",
       "favorite"
     ],
-    "id": 26,
-    "slug": "7-of-my-favorite-bible-passages",
-    "date": "2015-09-29T11:57:22.733Z"
+    "slug": "7-of-my-favorite-bible-passages"
   },
   {
     "title": "Using NodeJS to convert images into ASCII art",
