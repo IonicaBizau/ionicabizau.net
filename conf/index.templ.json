@@ -70,6 +70,17 @@
       "name": "emoji",
       "source": "git@github.com:Bloggify/emoji.git",
       "version": "master"
+    },
+    {
+      "name": "redirect",
+      "source": "git@github.com:Bloggify/redirect.git",
+      "version": "master",
+      "config": {
+        "redirects": {
+           "/blog/26-uploading-videos-to-youtube-using-nodejs": "/blog/14-uploading-videos-to-youtube-using-nodejs",
+           "/blog": "/"
+        }
+      }
     }
   ],
   "database": {
