@@ -153,14 +153,14 @@
   },
   {
     "title": "How to convert JSON to Markdown using json2md",
+    "date": "2015-11-02T10:13:50.000Z",
+    "id": 27,
     "by": "Ionică Bizău",
     "tags": [
       "json",
       "markdown"
     ],
-    "id": 27,
-    "slug": "how-to-convert-json-to-markdown-using-json2md",
-    "date": "2015-11-02T10:13:50.053Z"
+    "slug": "how-to-convert-json-to-markdown-using-json2md"
   },
   {
     "title": "Introducing the RSS Feed",
