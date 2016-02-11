@@ -5,7 +5,7 @@ We use software every day. Software that is developed by people. Using it is som
 ### Experience
 
 I started coding 5 years ago. I do the best in web development. 
-If you want to learn one of the these, or you just have a bug that you cannot solve, I'm here to help you:
+If you want to **learn one of the these**, or you just **have a bug that you cannot solve**, I'm here to help you:
 
  - JavaScript
  - Node.js (well, basically it's JavaScript on the server side)
