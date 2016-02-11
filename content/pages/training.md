@@ -12,7 +12,7 @@ If you want to **learn one of the these**, or you just **have a bug that you can
  - Git & GitHub
  - HTML & CSS
  - MongoDB
- - ...and others
+ - [...and others](https://www.codementor.io/johnnyb)
 
 ### :fire: How does it work? :fire:
 
