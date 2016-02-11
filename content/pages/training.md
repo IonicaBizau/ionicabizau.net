@@ -19,9 +19,8 @@ If you want to learn one of the these, or you just have a bug that you cannot so
 You can reach me on [CodeMentor](https://www.codementor.io/johnnyb) and schedule 1:1 sessions with me. 
 I prefer answering specific questions, rather than having weekly sessions (that may be possible too).
 
-<a href="https://codementor.io/johnnyb" target="_blank">
-  <img src="http://i.imgur.com/Y1zl5aF.png" class=""no-lightbox">
-</a>
+
+<img src="http://i.imgur.com/Y1zl5aF.png" class=""no-lightbox">
 
 ### :moneybag: Pricing
 
