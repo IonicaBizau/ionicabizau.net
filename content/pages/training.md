@@ -31,4 +31,4 @@ This may change in the future, depending on various parameters.
 
 In the meantime, check out my [GitHub projects](https://github.com/IonicaBizau) and follow me if you want to be notified when I build new stuff. :octocat:
 
-[Contact me](/contact) if you have any questions.
+[Contact me](/contact) if you have any questions. :email:
