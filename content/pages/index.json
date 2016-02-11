@@ -16,5 +16,11 @@
     "slug": "contact",
     "path": "/contact",
     "order": 40
+  },
+  {
+    "title": "Training",
+    "path": "/training",
+    "slug": "training",
+    "order": 40
   }
 ]

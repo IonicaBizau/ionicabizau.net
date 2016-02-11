@@ -1,0 +1,34 @@
+Hey there!
+
+We use software every day. Software that is developed by people. Using it is something everyone knows to do, reading its code is maybe a more challenging (I would say: the most challenging task) but writing code that can help other people is definitely a thing. :sparkle:
+
+### Experience
+
+I started coding 5 years ago. I do the best in web development. 
+If you want to learn one of the these, or you just have a bug that you cannot solve, I'm here to help you:
+
+ - JavaScript
+ - Node.js (well, basically it's JavaScript on the server side)
+ - Git & GitHub
+ - HTML & CSS
+ - MongoDB
+ - ...and others
+
+### :fire: How does it work? :fire:
+
+You can reach me on [CodeMentor](https://www.codementor.io/johnnyb) and schedule 1:1 sessions with me. 
+I prefer answering specific questions, rather than having weekly sessions (that may be possible too).
+
+<script data-codementor="johnnyb" data-style="badge" data-theme="light" src="https://cdn.codementor.io/assets/badge.js"></script>
+
+
+### :moneybag: Pricing
+
+Currently, I charge **$15 / 15 minutes**. :zap:
+This may change in the future, depending on various parameters.
+
+---
+
+In the meantime, check out my [GitHub projects](https://github.com/IonicaBizau) and follow me if you want to be notified when I build new stuff. :octocat:
+
+[Contact me](/contact) if you have any questions.
