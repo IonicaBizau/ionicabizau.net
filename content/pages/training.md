@@ -1,4 +1,4 @@
-Hey there!
+Hey there! :grin:
 
 We use software every day. Software that is developed by people. Using it is something everyone knows to do, reading its code is maybe a more challenging (I would say: the most challenging task) but writing code that can help other people is definitely a thing. :sparkle:
 
