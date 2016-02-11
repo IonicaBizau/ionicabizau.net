@@ -19,8 +19,7 @@ If you want to learn one of the these, or you just have a bug that you cannot so
 You can reach me on [CodeMentor](https://www.codementor.io/johnnyb) and schedule 1:1 sessions with me. 
 I prefer answering specific questions, rather than having weekly sessions (that may be possible too).
 
-<script data-codementor="johnnyb" data-style="badge" data-theme="light" src="https://cdn.codementor.io/assets/badge.js"></script>
-
+[![](http://i.imgur.com/Y1zl5aF.png)](https://codementor.io/johnnyb)
 
 ### :moneybag: Pricing
 
