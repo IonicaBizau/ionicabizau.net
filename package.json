@@ -1,0 +1,27 @@
+{
+  "name": "ionicabizau.net",
+  "version": "1.1.1",
+  "description": "My blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/ionicabizau.net.git"
+  },
+  "keywords": [
+    "blog",
+    "ionicabizau"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/ionicabizau.net/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/ionicabizau.net#readme",
+  "blah": {
+    "license": "See the [LICENSE](/LICENSE) file.",
+    "description": "This repository contains the content of [ionicabizau.net/](http://ionicabizau.net/)."
+  }
+}
