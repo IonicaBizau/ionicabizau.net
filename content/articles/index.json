@@ -315,5 +315,19 @@
       "CSS"
     ],
     "slug": "introducing-minilightbox"
+  },
+  {
+    "title": "How I ported Memory Blocks to modern web",
+    "by": "Ionică Bizău",
+    "tags": [
+      "memory",
+      "puzzle",
+      "old",
+      "game",
+      "web"
+    ],
+    "id": 28,
+    "slug": "how-i-ported-memory-blocks-to-modern-web",
+    "date": "2016-02-18T09:23:26.324Z"
   }
 ]
