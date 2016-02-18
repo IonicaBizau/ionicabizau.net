@@ -17,7 +17,7 @@ As GTK theme I use [Flattiance, a fork of the Ambiance theme](https://github.com
 
 As terminal emulator, I use `gnome-terminal`, themed with [the flat terminal theme](https://github.com/IonicaBizau/terminal-flat-theme).
 
-[![](https://camo.githubusercontent.com/1562b07216b148ed45757ce4286ff543f031120d/687474703a2f2f692e696d6775722e636f6d2f7274374745494c2e706e67)](http://ionicabizau.net/faq)
+![](https://camo.githubusercontent.com/1562b07216b148ed45757ce4286ff543f031120d/687474703a2f2f692e696d6775722e636f6d2f7274374745494c2e706e67)
 
    [1]: http://elementaryos.org/
    [2]: http://www.vim.org/
