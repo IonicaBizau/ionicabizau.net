@@ -1,0 +1,65 @@
+Playing computer games is lot of fun. Playing games that improve brain function is even better. The first computer game I ever played was one of these.
+
+It happened when visited a friend when I was 6 year old in the neighboring village. That time there were not so many computers like there are today. My friend asked me to play a computer game he thought I would enjoy. I did that and it was my favorite computer game at the time (back in 2001).
+
+The game I played was **Memory Blocks**, which is part of the *Symantec Game Pack* created by Charles Timmerman–founder of [Funster](http://funster.com) and author of over 90 puzzle books.
+
+![](http://i.imgur.com/m6ToUa4.png)
+
+Since then I did lot of things. One of them is that I became a web developer. So, I thought: it should be interesting to bring this game back to life and everyone be able to play it in their browsers. Lot of people love oldies. Not long time ago I created a COBOL bridge for Node.js and [the feedback was amazing](https://github.com/IonicaBizau/node-cobol#press-highlights).
+
+And I did it! You can play it [clicking here](https://ionicabizau.github.io/memory-blocks/):
+
+[![](http://i.imgur.com/3Y7jJvF.png)](https://ionicabizau.github.io/memory-blocks/)
+
+Below is how I did it:
+
+### Step 1: Modularize all the things!
+
+Instead of having a monolithic project doing one thing I preferred to separate the core part into a separate library. That's how [`match.js`](https://github.com/IonicaBizau/match.js) appeared. Using `match.js` everybody can develop a similar memory blocks games. [OctiMatch](http://ionicabizau.github.io/OctiMatch/) is a good example: it has the same rules, but it uses the [GitHub Octicons](https://octicons.github.com/) in the blocks.
+
+### Step 2: *Steal* the images from the original game
+
+I set up Windows in a virtual machine and took screenshots and cropped the images that should be displayed in the yellow blocks. There are [30 distinct images](https://github.com/IonicaBizau/memory-blocks/tree/gh-pages/images).
+
+### Step 3: Use `match.js` to build the actual game 
+
+I used the library I created to build this game: basically passing the paths to the images and some options. This was probably the simplest part. I got an initial working version. The next step was to make it look exactly like in the original game.
+
+### Step 4: CSS Magic
+
+I worked together with [**@tonkec**](https://github.com/tonkec) on this. She made the amazing 3D block spinning animations. It was tricky to do that but we did it. Btw, she has some nice [CodePens](http://codepen.io/tonkec/). :sparkles: 
+
+### Step 5: High Scores and other features
+
+I implemented the high scores. The data is kept in the browser local storage and is rendered in retro tables, like in the original game. :joy:
+
+![](http://i.imgur.com/OymyC8A.png)
+
+Also I implemented the retro windows (e.g. *About & How to play*), made it possible to switch between the grayscale and colored modes and to choose the difficulty (little or big board).
+
+### Step 6: Do it right!
+
+Before making the game public, I did a quick search to see who is the original game author and where can I find him. After a quick investigation I found Charles Timmerman–the founder of [funster.com](http://funster.com/)–and I was about 90% sure this is the guy I want to talk to.
+
+I kindly emailed him and asked to allow me using his images in my clone. I was wondering if he would reply me.
+
+After two days he sent me an enthusiastic reply. *Amazing! That looks exactly my game!* he said.
+
+> I like how the high score table looks the same and even the black & white option is preserved. In those days, there were Windows computers that were in black & white! You might be interested to know that I wrote all the games in assembly language- my choice in those days over the usual C.
+
+And he also agreed to use the designs and images in my game clone.
+
+### Step 7: Open-source all the things
+I [open-sourced the repository](https://github.com/IonicaBizau/memory-blocks) on GitHub and tweeted about it:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I ported to <a href="https://twitter.com/hashtag/web?src=hash">#web</a> the Memory Blocks game (1991, by Charles Timmerman). <br><br>🐲 <a href="https://t.co/x0srMQIAfC">https://t.co/x0srMQIAfC</a> 📦 <a href="https://t.co/6LqeK8qP22">pic.twitter.com/6LqeK8qP22</a></p>&mdash; IonicaBizau (@IonicaBizau) <a href="https://twitter.com/IonicaBizau/status/679677709249818624">December 23, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Feedback
+
+One of the things I like to do is to [teach people to code](/training). I usually share with my mentees the news I have (e.g. projects I build, something interesting I do etc).
+
+It was a nice surprise that one of my mentees sent me three books with Bible puzzles by the author.
+
+Also Timmerman sent me two signed  
