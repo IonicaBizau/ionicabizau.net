@@ -318,6 +318,8 @@
   },
   {
     "title": "How I ported Memory Blocks to modern web",
+    "date": "2016-02-18T09:23:26.000Z",
+    "id": 28,
     "by": "Ionică Bizău",
     "tags": [
       "memory",
@@ -326,8 +328,6 @@
       "game",
       "web"
     ],
-    "id": 28,
-    "slug": "how-i-ported-memory-blocks-to-modern-web",
-    "date": "2016-02-18T09:23:26.324Z"
+    "slug": "how-i-ported-memory-blocks-to-modern-web"
   }
 ]
