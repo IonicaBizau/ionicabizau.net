@@ -103,6 +103,9 @@
     "gitUrl": "https://github.com/IonicaBizau/blog",
     "description": "Web Developer, <i class=\"fa fa-linux\"></i> Linux geek and <i class=\"fa fa-music\"></i> Musician"
   },
+  "blog": {
+    "path": "/"
+  },
   "port": 9000,
   "logLevel": 4,
   "options": {
