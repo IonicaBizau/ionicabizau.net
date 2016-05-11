@@ -1,8 +1,8 @@
 {
   "name": "ionicabizau.net",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "My blog",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,5 +23,16 @@
   "blah": {
     "license": "See the [LICENSE](/LICENSE) file.",
     "description": "This repository contains the content of [ionicabizau.net/](http://ionicabizau.net/)."
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
