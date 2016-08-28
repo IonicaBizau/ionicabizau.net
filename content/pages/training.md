@@ -4,7 +4,7 @@ We use software every day. Software that is developed by people. Using it is som
 
 ### :microscope: Expertise
 
-I started coding 5 years ago. I do the best in web development. 
+I started coding 5 years ago. I do the best in web development.
 If you want to **learn one of these**, or you just **have a bug that you cannot solve**, I'm here to help you:
 
  - JavaScript
@@ -16,10 +16,10 @@ If you want to **learn one of these**, or you just **have a bug that you cannot 
 
 ### :fire: How does it work? :fire:
 
-You can reach me on [CodeMentor](https://www.codementor.io/johnnyb) and schedule 1:1 sessions with me. 
+You can reach me on [CodeMentor](https://www.codementor.io/johnnyb) and schedule 1:1 sessions with me.
 I prefer answering specific questions, rather than having weekly sessions (that may be possible too).
 
-<a href="https://codementor.io/johnnyb" target="_blank" style="background: url(http://i.imgur.com/Y1zl5aF.png); height: 283px; width: 250px; display: inline-block;"></a>
+<a href="https://codementor.io/johnnyb" target="_blank" style="background: url(https://i.imgur.com/Y1zl5aF.png); height: 283px; width: 250px; display: inline-block;"></a>
 
 
 ### :moneybag: Pricing
