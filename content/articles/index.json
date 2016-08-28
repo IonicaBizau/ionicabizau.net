@@ -163,6 +163,18 @@
     "date": "2016-06-27T13:44:23.360Z"
   },
   {
+    "title": "What to Do When Your Website is Broken",
+    "by": "Ionică Bizău",
+    "tags": [
+      "JavaScript",
+      "NodeJS",
+      "Debugging"
+    ],
+    "id": 32,
+    "slug": "what-to-do-when-your-website-is-broken",
+    "date": "2016-08-28T04:17:23.170Z"
+  },
+  {
     "title": "Generate ASCII boxes with NodeJS",
     "slug": "generate-ascii-boxes-with-nodejs",
     "date": "2014-07-21T21:00:00.000Z",
