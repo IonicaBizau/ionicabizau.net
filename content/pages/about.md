@@ -16,7 +16,7 @@ JavaScript/Node.JS), publishing them on [GitHub][2]. There, I have a lot of open
 source projects. I love JavaScript. It's easy and powerful; just perfect for me.
 Also, I sometimes write small bash scripts designed to optimize my work.
 
-I am a [StackOverflow user][3], being in [13th position amongst Romanian users][4].
+I am a [StackOverflow user][3], being in [11th position amongst Romanian users][4].
 
 You can find my music videos on [my YouTube channel][5].
 
