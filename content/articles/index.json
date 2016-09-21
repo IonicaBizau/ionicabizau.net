@@ -141,15 +141,15 @@
   },
   {
     "title": "How I npm",
+    "date": "2016-09-21T16:17:40.000Z",
+    "id": 33,
     "by": "Ionică Bizău",
     "tags": [
       "npm",
       "nodejs",
       "programming"
     ],
-    "id": 33,
-    "slug": "how-i-npm",
-    "date": "2016-09-21T16:17:40.038Z"
+    "slug": "how-i-npm"
   },
   {
     "title": "Generate ASCII boxes with NodeJS",
