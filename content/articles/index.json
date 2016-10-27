@@ -165,15 +165,15 @@
   },
   {
     "title": "The Joy of Being a Mentor",
+    "date": "2016-10-27T18:49:43.000Z",
+    "id": 35,
     "by": "Ionică Bizău",
     "tags": [
       "mentoring",
       "coding",
       "nature"
     ],
-    "id": 35,
-    "slug": "the-joy-of-being-a-mentor",
-    "date": "2016-10-27T18:49:43.856Z"
+    "slug": "the-joy-of-being-a-mentor"
   },
   {
     "title": "Generate ASCII boxes with NodeJS",
