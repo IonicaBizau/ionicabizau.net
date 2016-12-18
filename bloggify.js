@@ -8,7 +8,7 @@ module.exports = conf({
   , domain: "https://ionicabizau.net"
   , theme: "bloggify-theme-light"
   , plugins: [
-      //        "contact-form"
+      //  "contact-form"
       //, "lightbox"
       //, "rss"
       //, "social"
@@ -26,15 +26,15 @@ module.exports = conf({
     }
 }, {
     theme: {
-      social: {
-         twitter: "IonicaBizau",
-         youtube: "IonicaBizau",
-         github: "IonicaBizau",
-         bitbucket: "IonicaBizau"
-      }
-        //"analytics": {
-        //"a"id": "UA-34774185-1",
-        //"a"url": "ionicabizau.net"
-        //}
+        social: {
+            twitter: "IonicaBizau",
+            youtube: "IonicaBizau",
+            github: "IonicaBizau",
+            bitbucket: "IonicaBizau"
+        },
+        ga: {
+            id: "UA-34774185-1",
+            url: "ionicabizau.net"
+        }
     }
 });
