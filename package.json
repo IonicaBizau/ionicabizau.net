@@ -36,5 +36,14 @@
     "scripts/",
     "cli.js",
     "index.js"
-  ]
+  ],
+  "dependencies": {
+    "bloggify-config": "^1.0.6",
+    "bloggify-theme-light": "^1.0.6"
+  },
+  "devDependencies": {
+    "mdify": "^1.0.4",
+    "r-json": "^1.2.5",
+    "read-utf8": "^1.2.5"
+  }
 }

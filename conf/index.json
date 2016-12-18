@@ -1,11 +1,6 @@
 {
   "plugins": [
     {
-      "name": "article-tags",
-      "source": "git@github.com:Bloggify/article-tags.git",
-      "version": "master"
-    },
-    {
       "name": "contact-form",
       "source": "git@github.com:Bloggify/contact-form.git",
       "version": "master",
@@ -82,33 +77,5 @@
         }
       }
     }
-  ],
-  "database": {
-    "uri": "mongodb://localhost:27017/bloggify"
-  },
-  "themeData": {
-      "analytics": {
-        "id": "UA-34774185-1",
-        "url": "ionicabizau.net"
-      },
-      "social": {
-         "twitter": "IonicaBizau",
-         "youtube": "IonicaBizau",
-         "github": "IonicaBizau",
-         "bitbucket": "IonicaBizau"
-      }
-  },
-  "blog": {
-    "path": "/"
-  },
-  "site": {
-    "title": "Ionică Bizău",
-    "gitUrl": "https://github.com/IonicaBizau/blog",
-    "description": "Web Developer, <i class=\"fa fa-linux\"></i> Linux geek and <i class=\"fa fa-music\"></i> Musician"
-  },
-  "port": 9000,
-  "logLevel": 4,
-  "options": {
-    "clientScripts": []
-  }
+  ]
 }
