@@ -1,3 +1,7 @@
+---
+title: About
+order: 20
+---
 Hi. My name is Ionică Bizău. I am a 21 (still counting!) year old student, web
 developer, and piano player from Romania.
 

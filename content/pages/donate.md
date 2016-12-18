@@ -1,3 +1,7 @@
+---
+title: Donate
+order: 40
+---
 <center>
 
 <p>I love contributing to open-source software and sharing my work with others. If you’ve enjoyed something I've built or written, and you'd like to support the project’s development, please consider making a donation to help me keeping the development and support up. Thanks! :cake:</p>

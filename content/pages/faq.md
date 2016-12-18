@@ -1,3 +1,7 @@
+---
+title: FAQ
+order: 30
+---
 ## What operating system are you using?
 
 I've been using Linux distributions since the end of 2012. I use different *nix systems on my various machines:
