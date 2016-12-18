@@ -22,5 +22,11 @@
     "path": "/training",
     "slug": "training",
     "order": 35
+  },
+  {
+    "title": "Donate",
+    "path": "/donate",
+    "slug": "donate",
+    "order": 40
   }
 ]
