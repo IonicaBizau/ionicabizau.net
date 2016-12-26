@@ -39,7 +39,14 @@
   ],
   "dependencies": {
     "bloggify-config": "^1.0.6",
-    "bloggify-theme-light": "^1.0.6"
+    "bloggify-custom-assets": "^1.0.1",
+    "bloggify-emoji": "^2.0.1",
+    "bloggify-lightbox": "^3.0.1",
+    "bloggify-redirect": "^2.0.0",
+    "bloggify-rss": "^3.0.0",
+    "bloggify-social": "^3.0.0",
+    "bloggify-theme-light": "^1.0.7",
+    "ipinfo": "^1.3.3"
   },
   "devDependencies": {
     "mdify": "^1.0.4",
