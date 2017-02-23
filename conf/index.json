@@ -10,7 +10,7 @@
       "source": "git@github.com:Bloggify/contact-form.git",
       "version": "master",
       "config": {
-        "api_key": "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",
+        "api_key": "...",
         "contact_page": "/contact",
         "contact": {
             "email": "contact@ionicabizau.net",
@@ -37,7 +37,7 @@
           {
             "username": "IonicaBizau",
             "displayName": "Ionică Bizău",
-            "password": "qawsedrf!123"
+            "password": "..."
           }
         ]
       }
