@@ -234,6 +234,8 @@
   },
   {
     "title": "Accessing My Home Computer Remotely",
+    "date": "2017-07-10T09:18:07.000Z",
+    "id": 35,
     "by": "Ionică Bizău",
     "tags": [
       "travel",
@@ -241,9 +243,7 @@
       "internet",
       "ssh"
     ],
-    "id": 35,
-    "slug": "accessing-my-home-computer-remotely",
-    "date": "2017-07-10T09:18:07.790Z"
+    "slug": "accessing-my-home-computer-remotely"
   },
   {
     "title": "Increasing productivity using Blah 2.0.0",
