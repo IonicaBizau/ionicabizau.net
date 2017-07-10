@@ -233,16 +233,17 @@
     "slug": "cli-github---a-fancy-github-client-for-the-command-line"
   },
   {
-    "title": "The Joy of Being a Mentor",
-    "date": "2016-10-27T18:49:43.000Z",
-    "id": 35,
+    "title": "Accessing My Home Computer Remotely",
     "by": "Ionică Bizău",
     "tags": [
-      "mentoring",
-      "coding",
-      "nature"
+      "travel",
+      "linux",
+      "internet",
+      "ssh"
     ],
-    "slug": "the-joy-of-being-a-mentor"
+    "id": 35,
+    "slug": "accessing-my-home-computer-remotely",
+    "date": "2017-07-10T09:18:07.790Z"
   },
   {
     "title": "Increasing productivity using Blah 2.0.0",
