@@ -28,5 +28,11 @@
     "path": "/donate",
     "slug": "donate",
     "order": 40
+  },
+  {
+    "title": "CV",
+    "path": "cv",
+    "slug": "cv",
+    "order": 50
   }
 ]
