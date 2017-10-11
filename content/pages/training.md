@@ -24,8 +24,8 @@ I prefer answering specific questions, rather than having weekly sessions (that 
 
 ### :moneybag: Pricing
 
-Currently, I charge **$15 / 15 minutes**. :zap:
-This may change in the future, depending on various parameters.
+Currently, I charge **$80 / hour**. :zap:
+This may change in the future, depending on various factors.
 
 ---
 
