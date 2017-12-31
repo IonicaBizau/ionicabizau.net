@@ -2,7 +2,7 @@
 
 I've been using Linux distributions since the end of 2012. I use different *nix systems on my various machines:
 
- - Ubuntu 16.04, Unity desktop on my notebook
+ - Ubuntu 17.10, Unity desktop on my notebook
  - Ubuntu Server 16.04, openbox on my desktop machine
  - Ubuntu Mate 16.04 on my Raspberry Pi 2, and
  - macOS on my MacBook
