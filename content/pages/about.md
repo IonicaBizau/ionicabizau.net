@@ -2,7 +2,7 @@
 title: About
 order: 20
 ---
-Hi. My name is Ionică Bizău. I am a 21 (still counting!) year old student, web
+Hi. My name is Ionică Bizău. I am a 22 (still counting!) year old ~~student~~ college dropout, web
 developer, and piano player from Romania.
 
 I started studying computer science five years ago, starting with little C++

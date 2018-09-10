@@ -1,6 +1,6 @@
 {
   "name": "ionicabizau.net",
-  "version": "1.1.5",
+  "version": "1.1.9",
   "description": "My blog",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "blog",
     "ionicabizau"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/ionicabizau.net/issues"
@@ -24,19 +24,6 @@
     "license": "See the [LICENSE](/LICENSE) file.",
     "description": "This repository contains the content of [ionicabizau.net/](http://ionicabizau.net/)."
   },
-  "files": [
-    "bin/",
-    "app/",
-    "lib/",
-    "build/",
-    "dist/",
-    "src/",
-    "resources/",
-    "menu/",
-    "scripts/",
-    "cli.js",
-    "index.js"
-  ],
   "dependencies": {
     "bloggify-config": "^1.0.6",
     "bloggify-custom-assets": "^1.0.1",
