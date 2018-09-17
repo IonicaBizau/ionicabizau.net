@@ -4,7 +4,9 @@
   "description": "My blog",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "bloggify-prod-start",
+    "start:dev": "bloggify start",
+    "start:debug": "node debug `which bloggify` start"
   },
   "repository": {
     "type": "git",
@@ -25,17 +27,21 @@
     "description": "This repository contains the content of [ionicabizau.net/](http://ionicabizau.net/)."
   },
   "dependencies": {
-    "bloggify-config": "^1.0.6",
-    "bloggify-custom-assets": "^1.0.1",
-    "bloggify-emoji": "^2.0.1",
+    "bloggify": "0.0.0-alpha25",
+    "bloggify-contact-form": "^3.0.0",
+    "bloggify-custom-assets": "^2.0.2",
+    "bloggify-emoji": "^3.0.0",
     "bloggify-lightbox": "^3.0.1",
-    "bloggify-redirect": "^2.0.0",
-    "bloggify-rss": "^3.0.0",
+    "bloggify-markdown-adapter": "^2.0.0",
+    "bloggify-markdown-highlight": "^2.0.1",
+    "bloggify-redirect": "^3.0.0",
+    "bloggify-rss": "^4.0.0",
     "bloggify-social": "^3.0.0",
-    "bloggify-theme-light": "^1.0.7",
+    "bloggify-theme-light": "^2.0.2",
     "ipinfo": "^1.3.3"
   },
   "devDependencies": {
+    "bloggify-cli": "0.0.0-alpha34",
     "mdify": "^1.0.4",
     "r-json": "^1.2.5",
     "read-utf8": "^1.2.5"
