@@ -1,3 +1,7 @@
+---
+title: CV
+order: 50
+---
 Phew, just kidding! I don't have a CV! :joy:
 
 Anyways, to get an idea about what I'm doing check out the links below:
