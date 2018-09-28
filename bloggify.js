@@ -18,6 +18,7 @@ module.exports = {
               "server/resume.js"
           ]
       }]
+    , "markdown-highlight"
     //, ["contact-form", {
     //     "api_key": process.env.SG_API_KEY,
     //     "contact": {
