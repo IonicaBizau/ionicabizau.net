@@ -6,6 +6,7 @@
   "scripts": {
     "start": "bloggify-prod-start",
     "start:dev": "bloggify start",
+    "bundle": "bloggify-bundle",
     "start:debug": "node debug `which bloggify` start"
   },
   "repository": {
