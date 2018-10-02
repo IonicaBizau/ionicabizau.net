@@ -19,13 +19,13 @@ module.exports = {
           ]
       }]
     , "markdown-highlight"
-    //, ["contact-form", {
-    //     "api_key": process.env.SG_API_KEY,
-    //     "contact": {
-    //         "email": "contact@ionicabizau.net",
-    //         "name": "Ionică Bizău"
-    //     }
-    //  }]
+    , ["contact-form", {
+         "sendgrid_key": process.env.SG_API_KEY,
+         "contact": {
+             "email": "contact@ionicabizau.net",
+             "name": "Ionică Bizău"
+         }
+      }]
     ]
   , "adapter": ["bloggify-markdown-adapter", {
         "routes": {
@@ -47,4 +47,8 @@ module.exports = {
             }
         }]
     }]
+  , "server": {
+        "session": false,
+        "transformers": true
+    }
 }
