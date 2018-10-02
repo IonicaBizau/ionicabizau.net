@@ -41,7 +41,7 @@ module.exports = {
                     "bitbucket": "IonicaBizau"
                 },
                 "ga": {
-                    "id": "UA-34774185-1",
+                    "id": process.env.GA_KEY,
                     "url": "ionicabizau.net"
                 }
             }
