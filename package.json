@@ -4,7 +4,7 @@
   "description": "My blog",
   "main": "lib/index.js",
   "scripts": {
-    "start": "bloggify-prod-start",
+    "start": "bloggify start",
     "start:dev": "bloggify start",
     "bundle": "bloggify-bundle",
     "start:debug": "node debug `which bloggify` start"
@@ -28,7 +28,7 @@
     "description": "This repository contains the content of [ionicabizau.net/](http://ionicabizau.net/)."
   },
   "dependencies": {
-    "bloggify": "0.0.0-alpha25",
+    "bloggify": "0.0.0-alpha34",
     "bloggify-contact-form": "^4.0.2",
     "bloggify-custom-assets": "^2.0.2",
     "bloggify-emoji": "^3.0.0",
@@ -43,7 +43,7 @@
     "ipinfo": "^1.3.3"
   },
   "devDependencies": {
-    "bloggify-cli": "0.0.0-alpha25",
+    "bloggify-cli": "0.0.0-alpha34",
     "mdify": "^1.0.4",
     "r-json": "^1.2.5",
     "read-utf8": "^1.2.5"
