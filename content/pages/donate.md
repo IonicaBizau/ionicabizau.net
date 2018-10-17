@@ -2,7 +2,6 @@
 title: Donate
 order: 40
 ---
-
 I love contributing to open-source software and sharing my work with others. If you’ve enjoyed something I've built or written or if you got profit from something I did, and you'd like to support the my projects' development or if you just want to buy me a ~~coffee~~ tea, there are quite a few ways you can do that:
 
 
