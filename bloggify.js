@@ -2,11 +2,10 @@
 
 module.exports = {
     "title": "Ionică Bizău"
-  , "description": "Web Developer, <i class=\"fa fa-linux\"></i> *nix geek and <i class=\"fa fa-music\"></i> Musician"
+  , "description": "<i class=\"fa fa-linux\"></i> Programmer <i class=\"fa fa-music\"></i> Pianist <i class=\"fa fa-heart\"></i> Jesus follower"
   , "domain": "https://ionicabizau.net"
   , "plugins": [
-      "emoji",
-    , "lightbox"
+      "lightbox"
     , "social"
     , ["rss", { "description": "WEB Developer, *nix Geek and Musician" }]
     , ["redirect", {
@@ -28,6 +27,12 @@ module.exports = {
       }]
     ]
   , "adapter": ["bloggify-markdown-adapter", {
+        "parse": {
+            "converterOptions": {
+                "strikethrough": true,
+                "emoji": true
+            }
+        },
         "routes": {
           "articles": "/blog",
           "blog_url": "/"
