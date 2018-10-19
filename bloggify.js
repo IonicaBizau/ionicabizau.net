@@ -6,6 +6,7 @@ module.exports = {
   , "domain": "https://ionicabizau.net"
   , "plugins": [
       "lightbox"
+    , "pug-renderer"
     , "social"
     , ["rss", { "description": "WEB Developer, *nix Geek and Musician" }]
     , ["redirect", {
@@ -23,6 +24,13 @@ module.exports = {
          "contact": {
              "email": "contact@ionicabizau.net",
              "name": "Ionică Bizău"
+         }
+      }]
+    , ["dashboard", {
+         "users": {
+             [process.env.ADMIN_USERNAME]: {
+                 password: process.env.ADMIN_PASSWORD
+             }
          }
       }]
     ]
@@ -53,7 +61,6 @@ module.exports = {
         }]
     }]
   , "server": {
-        "session": false,
         "transformers": true
     }
 }
