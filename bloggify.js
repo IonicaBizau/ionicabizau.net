@@ -10,7 +10,7 @@ module.exports = {
     , ["rss", { "description": "WEB Developer, *nix Geek and Musician" }]
     , ["redirect", {
         "/blog/26-uploading-videos-to-youtube-using-nodejs": "/blog/14-uploading-videos-to-youtube-using-nodejs"
-      , "/blog/34-the-joy-of-being-a-mentor": "/blog/35-the-joy-of-being-a-mentor"
+      , "/blog/35-the-joy-of-being-a-mentor": "/blog/34-the-joy-of-being-a-mentor"
       }]
     , ["custom-assets", {
           "server": [
