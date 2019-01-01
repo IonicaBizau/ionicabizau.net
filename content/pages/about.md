@@ -2,8 +2,12 @@
 title: About
 order: 20
 ---
+
+
 Hi. My name is Ionică Bizău. I am a 23 (still counting!) year old ~~student~~ college dropout, web
-developer, and piano player from Romania.
+developer, and piano player from Romania. <br>
+
+<img src="https://i.imgur.com/jAHYXlQ.png" style="float:left; width: 300px; max-width: 100%; margin-right: 20px; margin-bottom: 10px;"/>
 
 I started studying computer science five years ago, starting with little C++
 algorithms and continuing with Microsoft technologies (C#, WPF, Windows Forms).
@@ -20,7 +24,7 @@ JavaScript/Node.JS), publishing them on [GitHub][2]. There, I have a lot of open
 source projects. I love JavaScript. It's easy and powerful; just perfect for me.
 Also, I sometimes write small bash scripts designed to optimize my work.
 
-I am a [StackOverflow user][3], being in [10th position amongst Romanian users][4].
+I am a [StackOverflow user][3], being in [8th position amongst Romanian users][4].
 
 You can find my music videos on [my YouTube channel][5].
 
