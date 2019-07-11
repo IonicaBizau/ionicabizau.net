@@ -2,6 +2,4 @@
 title: Contact
 order: 40
 ---
-If you have any questions, just send me a message. If you just want to say "Hi", that's cool too.
-
-{contact_form}
+If you have any questions, just send me a message at *contact [at] ionicabizau.net*. If you just want to say "Hi", that's cool too.

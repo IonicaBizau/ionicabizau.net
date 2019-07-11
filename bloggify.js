@@ -26,13 +26,13 @@ module.exports = {
              "name": "Ionică Bizău"
          }
       }]
-    , ["dashboard", {
-         "users": {
-             [process.env.ADMIN_USERNAME]: {
-                 password: process.env.ADMIN_PASSWORD
-             }
-         }
-      }]
+    //, ["dashboard", {
+    //     "users": {
+    //         [process.env.ADMIN_USERNAME]: {
+    //             password: process.env.ADMIN_PASSWORD
+    //         }
+    //     }
+    //  }]
     ]
   , "adapter": ["bloggify-markdown-adapter", {
         "parse": {
