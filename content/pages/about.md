@@ -4,7 +4,7 @@ order: 20
 ---
 
 
-Hi. My name is Ionică Bizău. I am a 25 (still counting!) year web developer, pianist and organist from Romania. <br>
+Hi. My name is Ionică Bizău. I am a 26 (still counting!) year web developer, pianist and organist from Romania. <br>
 
 <img src="https://i.imgur.com/jAHYXlQ.png" style="float:left; width: 300px; max-width: 100%; margin-right: 20px; margin-bottom: 10px;"/>
 
