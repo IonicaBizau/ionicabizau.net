@@ -16,7 +16,7 @@ Btw, I enjoy cookies and tea:
 
  If you use **Bitcoin**, you can send me bitcoins at this address (or scanning the code below): `1P9BRsmazNQcuyTxEqveUsnf5CERdq35V6`
 
-    ![](https://i.imgur.com/z6OQI95.png)
+  ![](https://i.imgur.com/z6OQI95.png)
 
 Thanks! :sparkling_heart:
 

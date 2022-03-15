@@ -2,7 +2,7 @@
 
 module.exports = {
     "title": "Ionică Bizău"
-  , "description": "<i class=\"fa fa-linux\"></i> Programmer, <i class=\"fa fa-music\"></i> Pianist, <i class=\"fa fa-heart\"></i> Jesus follower"
+  , "description": "<i class=\"fa fa-linux\"></i> Programmer, <i class=\"fa fa-music\"></i> Pianist & Organist, <i class=\"fa fa-heart\"></i> Jesus follower"
   , "domain": "https://ionicabizau.net"
   , "plugins": [
       "lightbox"
