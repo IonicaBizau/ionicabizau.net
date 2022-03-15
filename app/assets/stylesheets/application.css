@@ -1,0 +1,12 @@
+span.available-languages {
+    display: inline-block;
+
+    box-sizing: border-box;
+    float: right;
+    font-size: 25px;
+}
+
+span.available-languages > a {
+    display: inline-block;
+    margin-left: 5px;
+}

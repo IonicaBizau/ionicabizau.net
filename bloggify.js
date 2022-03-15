@@ -19,13 +19,13 @@ module.exports = {
           ]
       }]
     , "markdown-highlight"
-    , ["contact-form", {
-         "sendgrid_key": process.env.SG_API_KEY,
-         "contact": {
-             "email": "contact@ionicabizau.net",
-             "name": "Ionică Bizău"
-         }
-      }]
+    //, ["contact-form", {
+    //     "sendgrid_key": process.env.SG_API_KEY,
+    //     "contact": {
+    //         "email": "contact@ionicabizau.net",
+    //         "name": "Ionică Bizău"
+    //     }
+    //  }]
     //, ["dashboard", {
     //     "users": {
     //         [process.env.ADMIN_USERNAME]: {
@@ -41,9 +41,11 @@ module.exports = {
                 "emoji": true
             }
         },
+        "articles_per_page": 4,
         "routes": {
           "articles": "/blog",
-          "blog_url": "/"
+          "blog_url": "/",
+          "blog": "blog"
         },
         "theme": ["theme-light", {
             "options": {
