@@ -4,7 +4,7 @@
   "description": "My blog",
   "main": "lib/index.js",
   "scripts": {
-    "start": "bloggify start",
+    "start": "bloggify-prod-start",
     "start:dev": "bloggify-dev-start",
     "bundle": "bloggify-bundle",
     "start:debug": "node inspect `which bloggify-dev-start` start"
