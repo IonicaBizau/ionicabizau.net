@@ -1,6 +1,6 @@
 {
   "name": "ionicabizau.net",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "My blog",
   "main": "lib/index.js",
   "scripts": {
@@ -47,5 +47,22 @@
     "mdify": "^2.0.0",
     "r-json": "^1.2.5",
     "read-utf8": "^1.2.5"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "index.d.ts",
+    "package-lock.json",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
 }
